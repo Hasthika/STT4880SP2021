@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "STT 3851"
+  title: "STT 3250"
   left:
     - text: "Resources"
       href: https://lasanthiwatagoda.github.io/resources.html
