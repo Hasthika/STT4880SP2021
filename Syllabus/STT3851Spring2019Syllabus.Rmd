@@ -1,7 +1,8 @@
 ---
-title: "STT 3851 Syllabus - Spring 2019"
-author: ''
-date: "Spring 2019"
+title: "Syllabus: STT 3250 - Fundamentals of Probability"
+
+author: "Syllabus - Fall 2019"
+date: ""
 output:
   html_document:
     css: asu.css
@@ -10,8 +11,10 @@ output:
 ---
 
 **Instructor:**  Dr. Lasanthi Watagoda
-**Office:** Walker Hall 340      
-**Office Hours:** 1:00 p.m. - 3:30 p.m.  Tuesday and Thursday
+
+**Office:** Walker Hall 340  
+
+**Office Hours:** 2:00 p.m. - 4:00 p.m.  Tuesday and Thursday
 
 Make an appointment to see me by clicking https://lasanthi.youcanbook.me/.
 
@@ -20,75 +23,155 @@ Make an appointment to see me by clicking https://lasanthi.youcanbook.me/.
 
 **Course Description:**  
 
-This course covers elements of data management, descriptive statistics,  and inferential statistics. The course also examines the variance-bias tradeoff, linear regression, cross-validation, bootstrapping, subset selection, ridge and lasso regression, and choosing optimal models. 
+Topics include a study of sample spaces, counting rules, conditional probability and independence, random
+variables and their properties, moment generating functions, named distributions, both discrete and continuous,
+transformations, the Central Limit Theorem, covariance and correlation coefficients, order statistics, and
+multivariate probability distributions. 
+
+Prerequisite: MAT 2130
 
 **Course Objectives:**
 
-1.  Students will use a reproducible research work flow.
-2.  Students will improve their technology expertise.
-3.  Students will learn to apply statistical learning techniques.
+1.  *General Probability* : The Student will understand basic probability concepts.
+2.  *Univariate Random Variables* : The Student will understand key concepts concerning discrete and
+continuous univariate random variables (including binomial, negative binomial, geometric,
+hypergeometric, Poisson, uniform, exponential, gamma, normal, and mixed) and their applications.
+3. *Multivariate Random Variables* : The Student will understand key concepts concerning multivariate random
+variables (including the bivariate normal) and their applications.
+
+
+**Learning Outcomes**
+
+The Student will be able to:
+
+
+**I. General Probability**
+
+*  Define set functions, sample space, and events. Define probability as a set function on a collection of events
+and state the basic axioms of probability.
+
+
+*  Calculate probabilities of mutually exclusive events.
+
+*  Calculate probabilities using the addition and multiplication rules.
+
+*   Define independence and calculate probability of independent events.
+
+*   Calculate probabilities using combinatorics, such as combinations and permutations.
+
+*   Define and calculate conditional probabilities.
+
+*   State Bayes Theorem and use it to calculate conditional probabilities.
+
+
+**II. Univariate Random Variables**
+
+*   Explain and apply the concepts of random variables, probability and probability density functions,
+cumulative distribution functions.
+
+*   Calculate conditional probabilities.
+
+*   Explain and calculate expected value, mode, median, percentile, and higher moments.
+
+*   Explain and calculate variance, standard deviation, and coefficient of variation.
+
+*   Define probability generating functions and moment generating functions and use them to calculate
+probabilities and moments.
+
+*   Determine the sum of independent random variables (Poisson and normal).
+
+*   Apply transformations.
+
+
+**III. Multivariate Random Variables**
+
+*  Explain and perform calculations concerning joint probability and probability density functions and
+cumulative distribution functions.
+
+*   Determine conditional and marginal probability and probability density functions, cumulative distribution
+functions.
+
+*   Calculate moments for joint, conditional, and marginal random variables.
+
+* Explain and apply joint moment generating functions.
+
+* Calculate variance and standard deviation for conditional and marginal probability distributions.
+
+* Calculate joint moments, such as the covariance and the correlation coefficient.
+
+* Determine the distribution of a transformation of jointly distributed random variables. 
+
+* Determine the distribution of order statistics from a set of independent random variables.
+
+* Calculate probabilities and moments for linear combinations of independent random variables.
+
+* State and apply the Central Limit Theorem.
+
 
 
 **Course Text:**
 
-[_An Introdution to Statistical Learning with Applications in R_](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+Course Text: Probability and Statistical Inference, Tenth Edition by Hogg, Tanis,Zimmerman, 
 
-**Optional References:**
+**Required Resources:**
 
-[_Reproducible Research with R and RStudio, Second Edition_](https://github.com/christophergandrud/Rep-Res-Book) by Christopher Gandrud
+Note book, notes,  pencil and  a calculator
 
-[_The Elements of Statistical Learning_](http://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+ **Homework:** Students are expected to work all assigned problems. Only selected assignments or parts of
+assignments may at times be graded. 
 
-[_R Graphics Cookbook_](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956) by Winston Chang - Available via `SafariBooksOnline` through the Appalachian State University [library](http://library.appstate.edu/). 
+**Quizzes:** I anticipate giving in class quizzes regularly during the semester.
+<!--The lowest quiz grade will be
+dropped when determining the final grade.-->
 
+**Tests:** Two tests will be given. The date of each test will be announced at least one week in advance.
+
+
+**Final Exam:** A final exam will be given at our assigned time. This final exam will be comprehensive, covering all
+material that is covered in the course. 
+
+
+**Attendance:** Attendance will be taken  at the end of each class. Students are expected to attend every class. A detailed description of the ASU attendance policy can be found at the following link,
+[https://academicaffairs.appstate.edu/resources/syllabi-policy-and-statement-information]
 
 **Course Grading:**
 
+* 10% of the grade will come from Homework.
+* 20% of the course grade will come from Quizzes.
+* 40% of the grade will come from the Mid-Exams.
+* 25% of the grade will come from the Final.
+* 05% of the course grade will come from Attendance.
 
-* 30% of the course grade will come from quizzes (10).
-* 15% of the grade will come from labs (3).
-* 25% of the grade will come from projects (2).
-* 25% of the grade will come from the Mid-Exams (2).
-* 05% of the course grade will come from participation (attendance, participation in discussion in-class and/or online).
-
-
-<!--* Up to 10 points may be added to your final course average for an excellent compilation of all assignments (quizzes, labs, projects) and class notes in a single hyperlinked `*.html` document.
-
-**Piazza:**
-
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
-
-[_Click here_](https://piazza.com/appstate/spring2018/stat3851) to sign up for the class.
-
-[_Click here_](https://piazza.com/appstate/spring2018/stat3851/home) to find our class page at piazza.com.  
+| Range | Letter Grade | Range | Letter Grade | 
+|----------------|---------------------|----------------|---------------------|
+|  92.50% and above | A | 72.50-77.49% | C  |
+| 90.00--92.49% | A– | 70.00-72.49% | C– |
+| 87.50--89.99% | B+ | 67.50-69.99% | D+ |
+| 82.50--87.49% | B | 62.50-67.49% | D |
+| 80.00-82.49% | B– | 60.00-62.49% | D– |
+| 77.50-79.99% | C+ | 59.99% and below | F |
 
 
-**How To Get Unstuck**
+**Academic Integrity Policy, Disability Services, and Religious Holiday Observance:** 
 
-If you have a course related question, please ask your question on [piazza](piazza.com/appstate/spring2018/stat3851/home).  Your classmates may have the same question or may answer your question before I can provide an answer.  Well constructed questions will elicit answers more rapidly than poorly constructed questions.  This [video](https://www.youtube.com/watch?v=ZFaWxxzouCY&list=PLjTlxb-wKvXNSDfcKPFH2gzHGyjpeCZmJ&index=3) provides some background on asking questions.  This stackoverflow thread details how to create a [minimal R reproducible example](http://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example/5963610#5963610). Please read [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) by Eric Raymond and Rick Moen and heed their advice.
--->
+All students must abide by the ASU Academic Integrity Code posted at [www.studentconduct.appstate.edu/](www.studentconduct.appstate.edu/) Those seeking accommodations for a disability should contact the Office of Disability Services (ODS) at [http://www.ods.appstate.edu/](http://www.ods.appstate.edu/) or 828-262-3056.
+The statements regarding University policies for students are posted at
+[http://academicaffairs.appstate.edu/syllabi](http://academicaffairs.appstate.edu/syllabi)
+
+
+
+
+
+
+ 
+
+
 
 **University Policies**
 
 This course conforms with all Appalachian State University policies with respect to academic integrity, disability services, and class attendance.  The details of the policies may be found at <http://academicaffairs.appstate.edu/resources/syllabi>.
 
 
-**Computers and Software**
-
-This course will use the RStudio server  (https://mathr.math.appstate.edu/) that has the programs listed below and more installed.
-
-* [R](http://cran.r-project.org) 
-* [Git](http://git-scm.com/downloads) 
-* [RStudio](http://www.rstudio.com/products/rstudio/download/)
-* [LaTeX](http://www.ctan.org/starter)
-
-You must have an active internet connection and be registered in the course to access the server. To access the server, point any web browser to <https://mathr.math.appstate.edu/>.  You will need to acknowledge the connection is unsecure and possibly add a security exception to your web browser. Use your Appstate Username and Password to access the server.  A screen shot of the RStudio server is shown below.
-
-<center>
-![](RStudioLogIn.png)
-</center>
-
-If you have problems with your Appstate Username or Password visit [IT Support Services](http://support.appstate.edu/) or call 262-6266.  
 
 ***
 
