@@ -1,0 +1,20 @@
+---
+title: "Homework for STT 3250 - Fall 2019"
+author: "Dr. Lasanthi Pelawa-Watagoda"
+date: 'Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")`'
+output: 
+  bookdown::html_document2: 
+    highlight: textmate
+    theme: yeti
+    toc: true
+    css: "../CSS/style.css"
+---
+
+***
+
+* *Homework 1*: 
+    * Sec 1.1 - 
+    * Sec 1.2 - 
+    
+    
+***
