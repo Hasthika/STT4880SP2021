@@ -12,8 +12,8 @@ output:
 
 ***
 
-* *Homework 1*: 
-    * Sec 1.1 - 
+* *Homework 1*: Due Wednesday, August 28th.
+    * Sec 1.1 - 1, 4, 6, 7, 11
     * Sec 1.2 - 
     
     
