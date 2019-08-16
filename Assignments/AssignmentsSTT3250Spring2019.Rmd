@@ -124,7 +124,7 @@ output:
 
 ***
 
-#[Home Page](http://Lasanthi-ASU.github.io/STT3851ClassRepo/) - [Syllabus](https://lasanthi-asu.github.io/STT3851ClassRepo/Syllabus/STT3851Spring2017Syllabus.html) {-}  
+#[Home Page](http://Lasanthiwatagoda.github.io/STT3250Fall2019ClassRepo/index.html) - [Syllabus](https://Lasanthiwatagoda.github.io/STT3250Fall2019ClassRepo/Syllabus/STT3250Spring2019Syllabus.html) {-}  
 
 
 
