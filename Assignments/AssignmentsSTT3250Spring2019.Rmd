@@ -1,0 +1,130 @@
+---
+title: "Schedule for STT 3250 - Fall 2019"
+author: "Dr. Lasanthi Pelawa-Watagoda"
+date: 'Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")`'
+output: 
+  bookdown::html_document2: 
+    highlight: textmate
+    theme: yeti
+    toc: true
+    css: "../CSS/style.css"
+---
+
+***
+
+**Week 1: (Aug 19 -- 23)**
+
+* Go over syllabus.
+* Chapter 1: Introduction to Probability
+* In Class Quiz 01 (Thursday the 21st, last 20 min of class)
+
+***
+
+**Week 2: (Aug 26 -- 30 (No class on 27th))** 
+
+* Chapter 1: Introduction to Probability
+* In Class Quiz 02 (Thursday, last 20 min of class)
+
+***
+
+**Week 3: (Sep 02 -- 06)**
+
+* Chapter 1: Introduction to Probability
+* In Class Quiz 03 (Thursday, last 20 min of class)
+
+***
+
+**Week 4: (Sep 09 -- 13)**
+
+* Chapter 2: Discrete Distributions
+* In Class Quiz 04 (Thursday, last 20 min of class)
+
+***
+
+**Week 5: (Sep 16 -- 20)**
+
+* Chapter 2: Discrete Distributions
+* In Class Quiz 05 (Thursday, last 20 min of class)
+
+***
+
+**Week 6: (Sep 23 -- 27)**
+
+* Chapter 2: Discrete Distributions
+* In Class Quiz 06 (Thursday, last 20 min of class)
+
+***
+
+**Week 7: (Sep 30 -- Oct 04)**
+
+* *Test 01: Tuesday the 1st of Oct. Covers Ch 1 and 2.*
+* Chapter 3: Continuous Distributions
+
+***
+
+**Week 8: (Oct 07 -- Oct 11)**
+
+* Chapter 3: Continuous Distributions
+* In Class Quiz 07 (Thursday, last 20 min of class)
+
+***
+
+**Week 9: (Oct 14 -- Oct 18 (No class on 15th))**
+
+* Chapter 3: Continuous Distributions
+* In Class Quiz 08 (Thursday, last 20 min of class)
+
+***
+
+**Week 10: (Oct 21 -- Oct 25)**
+
+* Chapter 4: Bivariate Distributions
+* In Class Quiz 09 (Thursday, last 20 min of class)
+
+***
+
+**Week 11: (Oct 28 -- Nov 01)**
+
+* Chapter 4: Bivariate Distributions
+* In Class Quiz 10 (Thursday, last 20 min of class)
+
+***
+
+**Week 12: (Nov 04 -- Nov 08)**
+
+* Chapter 4: Bivariate Distributions
+* In Class Quiz 11 (Thursday, last 20 min of class)
+
+***
+
+**Week 13: (Nov 11 -- Nov 15)**
+
+* *Test 02: Tuesday the 12th of Nov. Covers Ch 3 and 4.*
+* Chapter 5: Distributions of Functions of Random Variables
+
+***
+
+**Week 14: (Nov 18 -- Nov 22)**
+
+* Chapter 5: Distributions of Functions of Random Variables
+* In Class Quiz 12 (Thursday, last 20 min of class)
+
+***
+
+**Week 15: (Nov 25 -- Nov 29 (No class on 27th and 28th))**
+
+* Chapter 5: Distributions of Functions of Random Variables
+* Review for final
+
+***
+
+**Week 16: (Dec 02 -- Dec 06 (No class on 04th and 05th))**
+
+* Review for final
+
+***
+
+#[Home Page](http://Lasanthi-ASU.github.io/STT3851ClassRepo/) - [Syllabus](https://lasanthi-asu.github.io/STT3851ClassRepo/Syllabus/STT3851Spring2017Syllabus.html) {-}  
+
+
+
