@@ -25,7 +25,7 @@ output:
 
 * Chapter 1: Introduction to Probability
 * In Class Quiz 02 (Thursday, last 20 min of class)
-
+* [Homework 2: Due Wednesday the 04th](Homework.html)
 
 ***
 
@@ -33,6 +33,7 @@ output:
 
 * Chapter 1: Introduction to Probability
 * In Class Quiz 03 (Thursday, last 20 min of class)
+* [Homework 3: Due Wednesday the 11th](Homework.html)
 
 ***
 
