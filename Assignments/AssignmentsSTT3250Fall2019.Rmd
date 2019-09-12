@@ -41,6 +41,7 @@ output:
 
 * Chapter 2: Discrete Distributions (2.1, 2.2, 2.3)
 * In Class Quiz 04 (Thursday, last 20 min of class)
+* [Homework 4: Due Wednesday the 18th](Homework.html)
 
 ***
 
