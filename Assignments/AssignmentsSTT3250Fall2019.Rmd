@@ -49,6 +49,7 @@ output:
 
 * Chapter 2: Discrete Distributions (2.4, 2.5)
 * In Class Quiz 05 (Thursday, last 20 min of class)
+* [Homework 5: Due Thursday the 26th](Homework.html)
 
 ***
 
