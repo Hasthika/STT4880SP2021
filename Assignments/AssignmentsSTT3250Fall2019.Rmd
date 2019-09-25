@@ -56,7 +56,7 @@ output:
 **Week 6: (Sep 23 -- 27)**
 
 * Chapter 2: Discrete Distributions (2.6)
-* In Class Quiz 06 (Wednesday, last 20 min of class)
+* In Class Quiz 06 (Thursday, last 20 min of class)
 * Review for test 1
 
 ***
