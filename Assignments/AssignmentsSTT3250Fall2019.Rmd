@@ -65,6 +65,7 @@ output:
 
 * *Test 01: Tuesday the 1st of Oct. Covers Ch 1 and 2.*
 * Chapter 3: Continuous Distributions
+* [Homework 6: Due Wednesday the 09th](Homework.html)
 
 ***
 
@@ -72,6 +73,7 @@ output:
 
 * Chapter 3: Continuous Distributions
 * In Class Quiz 07 (Thursday, last 20 min of class)
+* [Homework 7: Due Wednesday the 16th](Homework.html)
 
 ***
 
@@ -79,6 +81,7 @@ output:
 
 * Chapter 3: Continuous Distributions
 * In Class Quiz 08 (Thursday, last 20 min of class)
+* [Homework 8: Due Wednesday the 23th](Homework.html)
 
 ***
 
