@@ -44,4 +44,8 @@ output:
 ***   
 * *Homework 6*: Due Wednesday, October 9th.
     * Sec 3.1 - 2, 3, 4, 5, 7a), 8, 9, 11, 14, 15
-   
+    
+    
+  ***   
+* *Homework 7*: Due Wednesday, October 16th.
+    * Sec 3.2 - 1, 2, 3, , 5, 8, 11, 13, 14, 16, 21 
