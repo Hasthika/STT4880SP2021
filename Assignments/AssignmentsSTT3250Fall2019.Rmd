@@ -64,14 +64,14 @@ output:
 **Week 7: (Sep 30 -- Oct 04)**
 
 * *Test 01: Tuesday the 1st of Oct. Covers Ch 1 and 2.*
-* Chapter 3: Continuous Distributions
+* Chapter 3: Continuous Distributions (3.1)
 * [Homework 6: Due Wednesday the 09th](Homework.html)
 
 ***
 
 **Week 8: (Oct 07 -- Oct 11)**
 
-* Chapter 3: Continuous Distributions
+* Chapter 3: Continuous Distributions (3.2)
 * In Class Quiz 07 (Thursday, last 20 min of class)
 * [Homework 7: Due Wednesday the 16th](Homework.html)
 
@@ -79,8 +79,7 @@ output:
 
 **Week 9: (Oct 14 -- Oct 18 (No class on 15th))**
 
-* Chapter 3: Continuous Distributions
-* In Class Quiz 08 (Thursday, last 20 min of class)
+* Chapter 3: Continuous Distributions (3.3)
 * [Homework 8: Due Wednesday the 23th](Homework.html)
 
 ***
@@ -88,21 +87,24 @@ output:
 **Week 10: (Oct 21 -- Oct 25)**
 
 * Chapter 4: Bivariate Distributions
-* In Class Quiz 09 (Thursday, last 20 min of class)
+* In Class Quiz 08 (Thursday, last 20 min of class)
+
 
 ***
 
 **Week 11: (Oct 28 -- Nov 01)**
 
 * Chapter 4: Bivariate Distributions
-* In Class Quiz 10 (Thursday, last 20 min of class)
+* In Class Quiz 09 (Thursday, last 20 min of class)
 
 ***
 
 **Week 12: (Nov 04 -- Nov 08)**
 
 * Chapter 4: Bivariate Distributions
-* In Class Quiz 11 (Thursday, last 20 min of class)
+* In Class Quiz 10 (Thursday, last 20 min of class)
+
+
 
 ***
 
@@ -116,13 +118,15 @@ output:
 **Week 14: (Nov 18 -- Nov 22)**
 
 * Chapter 5: Distributions of Functions of Random Variables
-* In Class Quiz 12 (Thursday, last 20 min of class)
+* In Class Quiz 11 (Thursday, last 20 min of class)
+
 
 ***
 
 **Week 15: (Nov 25 -- Nov 29 (No class on 27th and 28th))**
 
 * Chapter 5: Distributions of Functions of Random Variables
+* In Class Quiz 12 (Thursday, last 20 min of class)
 * Review for final
 
 ***
