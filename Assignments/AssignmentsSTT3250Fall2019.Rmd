@@ -86,16 +86,17 @@ output:
 
 **Week 10: (Oct 21 -- Oct 25)**
 
-* Chapter 4: Bivariate Distributions
+* Chapter 4: Bivariate Distributions (4.1), (4.2), (4.3)
 * In Class Quiz 08 (Thursday, last 20 min of class)
-
+* [Homework 9: Due Wednesday the 30th](Homework.html)
 
 ***
 
 **Week 11: (Oct 28 -- Nov 01)**
 
-* Chapter 4: Bivariate Distributions
+* Chapter 4: Bivariate Distributions (4.4), (4.5)
 * In Class Quiz 09 (Thursday, last 20 min of class)
+* [Homework 10: Due Wednesday the 06th](Homework.html)
 
 ***
 
