@@ -1,0 +1,104 @@
+---
+title: "Syllabus: STT 4880 - Mathematical Statisitics"
+
+author: "Syllabus - Spring 2020"
+date: ""
+output:
+  html_document:
+    css: asu.css
+    highlight: textmate
+    theme: yeti
+---
+
+**Instructor:**  Dr. Lasanthi Watagoda
+
+**Class meeting:** TR 9:30am - 10:45am, WA310
+
+**Office:** Walker Hall 340  
+
+**Office Hours:** 1:00 p.m. - 3:00 p.m.  Tuesday and Thursday
+
+Make an appointment to see me by clicking https://lasanthi.youcanbook.me/.
+
+<!--Questions related to the class should be addressed with the [piazza account for STT 3851](https://piazza.com/appstate/spring2018/stat3851/home).-->
+
+
+
+
+
+Prerequisite: STT 3250
+
+**Course Description:**  
+
+This is continuation of STT 3250 dealing with statistical inference and sampling distributions, estimation and properties of estimators, confidence intervals, and hypothesis testing. Estimation will include matching moments, percentile matching, and maximum likelihood. The properties discussed will include bias, variance, mean squared error, consistency, efficiency, and uniform minimum variance unbiased estimators. Confidence intervals will estimate the mean, difference of means, variances, and proportions. Hypothesis testing includes the Neyman-Pearson lemma, significance and power, likelihood ratio tests, and information criteria. Other tests covered include those for mean, variance, contingency tables, and goodness of fit.
+
+
+
+
+**Course Text:**
+
+Course Text: Probability and Statistical Inference, 9th Edition by Hogg, Tanis,Zimmerman. 
+
+**Required Resources:**
+
+Text book, Note book, notes,  pencil and  a calculator
+
+ **Homework:** Students are expected to work all assigned problems. Only selected assignments or parts of
+assignments may at times be graded. See schedule for the dates.
+
+**Quizzes:** I anticipate giving in class quizzes regularly during the semester. See schedule for the dates.
+<!--The lowest quiz grade will be
+dropped when determining the final grade.-->
+
+**Tests:** Two mid exams will be given. See schedule for the dates.
+
+
+**Final Exam:** A final exam will be given on May 7th at 8am. This final exam will be comprehensive, covering all
+material that is covered in the course. 
+
+
+**Attendance:** Attendance will be taken  at the end of each class. Students are expected to attend every class. A detailed description of the ASU attendance policy can be found at the following link,
+[https://academicaffairs.appstate.edu/resources/syllabi-policy-and-statement-information]
+
+**Course Grading:**
+
+* 20% of the grade will come from Homework.
+* 30% of the course grade will come from Quizzes.
+* 30% of the grade will come from the Mid-Exams.
+* 20% of the grade will come from the Final.
+* 05% extra credit will come from Attendance.
+
+| Range | Letter Grade | Range | Letter Grade | 
+|----------------|---------------------|----------------|---------------------|
+|  92.50% and above | A | 72.50-77.49% | C  |
+| 90.00--92.49% | A– | 70.00-72.49% | C– |
+| 87.50--89.99% | B+ | 67.50-69.99% | D+ |
+| 82.50--87.49% | B | 62.50-67.49% | D |
+| 80.00-82.49% | B– | 60.00-62.49% | D– |
+| 77.50-79.99% | C+ | 59.99% and below | F |
+
+
+**Academic Integrity Policy, Disability Services, and Religious Holiday Observance:** 
+
+All students must abide by the ASU Academic Integrity Code posted at [www.studentconduct.appstate.edu/](www.studentconduct.appstate.edu/) Those seeking accommodations for a disability should contact the Office of Disability Services (ODS) at [http://www.ods.appstate.edu/](http://www.ods.appstate.edu/) or 828-262-3056.
+The statements regarding University policies for students are posted at
+[http://academicaffairs.appstate.edu/syllabi](http://academicaffairs.appstate.edu/syllabi)
+
+
+
+
+
+
+ 
+
+
+
+**University Policies**
+
+This course conforms with all Appalachian State University policies with respect to academic integrity, disability services, and class attendance.  The details of the policies may be found at <http://academicaffairs.appstate.edu/resources/syllabi>.
+
+
+
+***
+
+#[Home Page](http://stat-ata-asu.github.io/STT3851ClassRepo/) - [Assignments](http://stat-ata-asu.github.io/STT3851ClassRepo/Assignments/AssignmentsSTT3851Spring2017.html) 
