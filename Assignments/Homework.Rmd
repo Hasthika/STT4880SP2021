@@ -12,10 +12,10 @@ output:
 
 ***
 
-* *Homework 1*: Due Tuesday, January 21st.
+* *Homework 1*: Due Tuesday, January 23rd.
     * Sec 6.1 - 2, 4, 5, 8, 10
     
-    
+[Probability and Statistical Infernce - 9th Edition](TextBook.pdf)    
 ***
 <!--
 * *Homework 2*: Due Wednesday, September 04th.
