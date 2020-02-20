@@ -36,6 +36,12 @@ output:
  
 ***
 
+* *Homework 4*: Due Thursday, February 25th
+    * Sec 7.1 - 2, 4, 6, 8, 10, 12
+
+ 
+***
+
 [Probability and Statistical Infernce - 9th Edition](TextBook.pdf)
 
 
