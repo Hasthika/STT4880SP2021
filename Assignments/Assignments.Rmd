@@ -64,7 +64,7 @@ of Two Means)
 
 **Week 7: (February 24 -- 28)**
 
-* Chapter 7: Interval Estimation (7.3 - Confidence Intervals for Proportions, 7.4 - Sample Size) 
+* Chapter 7: Interval Estimation (7.3 - Confidence Intervals for Proportions) 
 * In Class Quiz 05 (Thursday the 27th , last 20 minutes of class)
 * [Homework 5: Due Tuesday the 25th](Homework.html)
 
@@ -72,7 +72,8 @@ of Two Means)
 
 **Week 8: (March 02 -- 06)**
 
-* Chapter 7: Interval Estimation (8.1 - Tests About One Mean) 
+* Chapter 7: Interval Estimation (7.4 - Sample Size) 
+* Chapter 8: Tests of Statistical Hypotheses (8.1 - Tests About One Mean) 
 * In Class Quiz 06 (Thursday the 05th, last 20 min of class)
 * [Homework 6: Due Thursday the 05th](Homework.html)
 
