@@ -2,6 +2,14 @@
 title: "Welcome"
 ---
 
+***
+
+## **Class Meeetings**
+
+* [Click here to go to class](https://appstate.zoom.us/j/615904670)
+
+***
+
 * The course syllabus is stored in the [`Syllabus`](./Syllabus/STT4880SP2020Syllabus.html) directory of the STT 3851 repository.
 
 * Course pacing and assignments are stored in the [`Assignments`](./Assignments/Assignments.html) directory of the STT 3851 repository.
