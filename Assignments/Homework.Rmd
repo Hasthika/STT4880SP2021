@@ -49,8 +49,8 @@ output:
 ***
 
 * *Homework 7*: Due Thursday, March 19th
-    * Sec 7.3 - 
-    * Sec 7.4 -
+    * Sec 7.3 - 1 a),b),d),e), 4, 6, 8, 10
+    * Sec 7.4 - 2, 3, 6, 8, 10
     
  ***   
 [Probability and Statistical Infernce - 9th Edition](TextBook.pdf)
