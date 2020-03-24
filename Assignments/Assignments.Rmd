@@ -73,8 +73,7 @@ of Two Means)
 **Week 8: (March 02 -- 06)**
 
 * Chapter 7: Interval Estimation (7.4 - Sample Size) 
-* Chapter 8: Tests of Statistical Hypotheses (8.1 - Tests About One Mean) 
-* In Class Quiz 06 (Thursday the 05th, last 20 min of class)
+
 * [Homework 6: Due Thursday the 05th](Homework.html)
 
 ***
@@ -85,62 +84,65 @@ of Two Means)
 
 ***
 
-**Week 10: (March 16 -- 20)**
+**Week 10: (March 16 -- 20) (SPRING BREAK CONTINUED)**
 
-* Chapter 8: Tests of Statistical Hypotheses (8.2 - Tests of the Equality of Two Means)
-* In Class Quiz 07 (Thursday the 19th, last 20 min of class)
-* [Homework 7: Due Thursday the 19th](Homework.html)
+
 
 ***
 
 **Week 11: (March 23 -- 27)**
 
-* Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
+* Chapter 8: Tests of Statistical Hypotheses (8.1 - Tests About One Mean) 
+* Chapter 8: Tests of Statistical Hypotheses (8.2 - Tests of the Equality of Two Means)
+* In Class Quiz 07 (Thursday the 26th, last 20 min of class)
+* [Homework 7: Due Tuesday the 24th](Homework.html)
 
 * [Lecture Video for Section 8.1](https://appstate.zoom.us/rec/share/w8tXM-DM_G5OW7Pgsn7uQPU5HKToT6a80CYd-aZcxRor9UIMW2sDmEYygZOR5sim)
 
-* In Class Quiz 08 (Thursday the 26th, last 20 min of class)
-* [Homework 8: Due Thursday the 26th](Homework.html)
 
 ***
 
 **Week 12: (March 30 -- April 3)**
 
-* Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
-* Test 02 (Thursday the 02nd)
 
-
+* Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
+* In Class Quiz 08 (Thursday the 09th, last 20 min of class)
+* [Homework 8: Due Tuesday the 31st](Homework.html)
 
 ***
 
 **Week 13: (April 06 -- 10)**
 
-* Chapter 9: More Tests (9.2 - Contingency Tables)
-* In Class Quiz 09 (Thursday the 09th, last 20 min of class)
-* [Homework 9: Due Thursday the 09th](Homework.html)
+* Test 02 - Thursday the 09th
+* Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
+* [Homework 9: Due Tuesday the 07th](Homework.html)
 
 
 ***
 
 **Week 14: (April 13 -- 17)**
 
+* Chapter 9: More Tests (9.2 - Contingency Tables)
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
-* In Class Quiz 10 (Thursday the 16th, last 20 min of class)
-* [Homework 10: Due Thursday the 16th](Homework.html)
+* In Class Quiz 09 (Thursday the 09th, last 20 min of class)
+
+* [Homework 10: Due Tuesday the 14th](Homework.html)
 
 ***
 
 **Week 15: (April 20 -- 24)**
 
 * Chapter 9: More Tests (9.4 - Two-Way Analysis of Variance)
-* In Class Quiz 11 (Thursday the 23rd, last 20 min of class)
-* [Homework 11: Due Thursday the 23rd](Homework.html)
+* In Class Quiz 10 (Thursday the 16th, last 20 min of class)
+
+* [Homework 11: Due Tuesday the 21st](Homework.html)
 
 ***
 
 **Week 16: (April 27 -- May 01 (No class on 30th))**
 
 * Review for final
+
 
 ***
 
