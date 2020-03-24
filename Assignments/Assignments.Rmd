@@ -96,6 +96,9 @@ of Two Means)
 **Week 11: (March 23 -- 27)**
 
 * Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
+
+* [Lecture Video for Section 8.1](https://appstate.zoom.us/rec/share/w8tXM-DM_G5OW7Pgsn7uQPU5HKToT6a80CYd-aZcxRor9UIMW2sDmEYygZOR5sim)
+
 * In Class Quiz 08 (Thursday the 26th, last 20 min of class)
 * [Homework 8: Due Thursday the 26th](Homework.html)
 
