@@ -115,7 +115,7 @@ of Two Means)
 
 **Week 13: (April 06 -- 10)**
 
-* Test 02 - Thursday the 09th
+* Test 02 - Thursday the 09th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
 * Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
 * [Homework 9: Due Tuesday the 07th](Homework.html)
 
