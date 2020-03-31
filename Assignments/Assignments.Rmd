@@ -110,6 +110,7 @@ of Two Means)
 * Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
 * In Class Quiz 08 (Thursday the 02nd, last 20 min of class)
 * [Homework 8: Due Tuesday the 31st](Homework.html)
+* [Lecture Video for Section 8.3](https://appstate.zoom.us/rec/share/6_5LdrvJrD5OUo2V9l_7B_J5R4_8T6a813QZ-PRcmUzQ9t-lZ7hlhrnJeGD3HdDM)
 
 ***
 
