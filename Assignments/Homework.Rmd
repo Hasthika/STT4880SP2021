@@ -58,7 +58,27 @@ output:
     * Sec 8.1 - 2, 4, 6, 8, 10, 12
     * Sec 8.2 - 2, 4, 6, 8, 10, 12
     
+    
+ *** 
+ 
+ * *Homework 9*: Due  Tuesday, April 14th
+    * Sec 8.3 - 5, 6, 8, 10, 12 
+    * Sec 8.4 - 
+    
  ***  
+ 
+ * *Homework 10*: Due  Tuesday, April 21st
+    * Sec 9.1 - 
+    * Sec 9.2 - 
+    
+ ***  
+ 
+ * *Homework 11*: Due Tuesday, April 28th
+    * Sec 9.3 - 
+    
+ ***  
+ 
+ 
 [Probability and Statistical Infernce - 9th Edition](TextBook.pdf)
 
 
