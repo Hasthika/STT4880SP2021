@@ -120,7 +120,7 @@ of Two Means)
 * Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
 * Test 02 - Thursday the 09th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
 
-* [Homework 9: Due Tuesday the 14th](Homework.html)
+
 
 
 ***
@@ -129,23 +129,25 @@ of Two Means)
 
 * Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
 * Chapter 9: More Tests (9.2 - Contingency Tables)
+* [Homework 9: Due Tuesday the 14th](Homework.html)
+* In Class Quiz 09 (Thursday the 16th, last 20 min of class)
 
-* In Class Quiz 09 (Thursday the 09th, last 20 min of class)
 
-* [Homework 10: Due Tuesday the 21th](Homework.html)
 
 ***
 
 **Week 15: (April 20 -- 24)**
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
-* In Class Quiz 10 (Thursday the 16th, last 20 min of class)
-* [Homework 11: Due Tuesday the 28th](Homework.html)
+* In Class Quiz 10 (Thursday the23rd, last 20 min of class)
+* [Homework 10: Due Tuesday the 21th](Homework.html)
+
 
 ***
 
 **Week 16: (April 27 -- May 01 (No class on 30th))**
 
+* [Homework 11: Due Tuesday the 28th](Homework.html)
 * Review for final
 
 
