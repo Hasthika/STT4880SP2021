@@ -108,17 +108,17 @@ of Two Means)
 
 
 * Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
-* In Class Quiz 08 (Thursday the 09th, last 20 min of class)
+* In Class Quiz 08 (Thursday the 02nd, last 20 min of class)
 * [Homework 8: Due Tuesday the 31st](Homework.html)
 
 ***
 
 **Week 13: (April 06 -- 10)**
 
-* Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests))
+* Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
 * Test 02 - Thursday the 09th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
 
-* [Homework 9: Due Tuesday the 07th](Homework.html)
+* [Homework 9: Due Tuesday the 14th](Homework.html)
 
 
 ***
@@ -130,7 +130,7 @@ of Two Means)
 
 * In Class Quiz 09 (Thursday the 09th, last 20 min of class)
 
-* [Homework 10: Due Tuesday the 14th](Homework.html)
+* [Homework 10: Due Tuesday the 21th](Homework.html)
 
 ***
 
@@ -138,7 +138,7 @@ of Two Means)
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 * In Class Quiz 10 (Thursday the 16th, last 20 min of class)
-* [Homework 11: Due Tuesday the 21st](Homework.html)
+* [Homework 11: Due Tuesday the 28st](Homework.html)
 
 ***
 
