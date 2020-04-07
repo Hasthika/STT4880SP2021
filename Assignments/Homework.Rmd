@@ -63,7 +63,7 @@ output:
  
  * *Homework 9*: Due  Tuesday, April 14th
     * Sec 8.3 - 5, 6, 8, 10, 12 
-    * Sec 8.4 - 2, 4, 6, 8(a), 10, 12, 14 (a,b)
+    * Sec 8.4 - 2, 4, 6
     
  ***  
  
