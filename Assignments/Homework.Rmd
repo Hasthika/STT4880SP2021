@@ -68,12 +68,13 @@ output:
  ***  
  
  * *Homework 10*: Due  Tuesday, April 21st
-    * Sec 9.1 - 
-    * Sec 9.2 - 
+    * Sec 9.1 - 2, 4, 6, 8, 10
+    
     
  ***  
  
  * *Homework 11*: Due Tuesday, April 28th
+    * Sec 9.2 - 
     * Sec 9.3 - 
     
  ***  
