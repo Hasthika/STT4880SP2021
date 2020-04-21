@@ -74,8 +74,8 @@ output:
  ***  
  
  * *Homework 11*: Due Tuesday, April 28th
-    * Sec 9.2 - 
-    * Sec 9.3 - 
+    * Sec 9.2 - 4, 6, 8, 10 (For Q4: $\leq$ 61, 62-78, 79 $\geq$ )
+     
     
  ***  
  
