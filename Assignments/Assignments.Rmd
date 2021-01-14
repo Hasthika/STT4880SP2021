@@ -1,6 +1,6 @@
 ---
-title: "Schedule for STT 4880 - Spring 2020"
-author: "Dr. Lasanthi Pelawa-Watagoda"
+title: "Schedule for STT 4880 - Spring 2021"
+author: "Dr. Hasthika Rupasinghe"
 date: 'Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")`'
 output: 
   bookdown::html_document2: 
@@ -165,7 +165,7 @@ of Two Means)
 
 ***
 
-#[Home Page](http://Lasanthiwatagoda.github.io/STT3250Fall2019ClassRepo/index.html) - [Syllabus](https://Lasanthiwatagoda.github.io/STT3250Fall2019ClassRepo/Syllabus/STT3250Fall2019Syllabus.html) {-}  
+# [Home Page](https://hasthika.github.io/STT4880SP2021/index.html) - 
 
 
 

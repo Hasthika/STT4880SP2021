@@ -1,6 +1,6 @@
 ---
-title: "Homework for STT 4880 - SP 2020"
-author: "Dr. Lasanthi Pelawa-Watagoda"
+title: "Homework for STT 4880 - SP 2021"
+author: "Dr. Hasthika Rupasinghe"
 date: 'Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")`'
 output: 
   bookdown::html_document2: 
@@ -17,6 +17,7 @@ output:
     
 
 ***
+<!--
 
 * *Homework 2*: Due Thursday, January 30th
     * Sec 6.2 - 2, 4, 6, 8, 10
@@ -78,7 +79,7 @@ output:
      
     
  ***  
- 
+ -->
  
 [Probability and Statistical Infernce - 9th Edition](TextBook.pdf)
 
