@@ -11,7 +11,7 @@ title: "Welcome"
 
 ***
 
-* The course [`Syllabus`](./Syllabus/STT4880SP2020Syllabus.html) 
+* The course [`Syllabus`](./Syllabus/STT4880SP2021Syllabus.html) 
 
 * Course [`pacing and Assignments`](./Assignments/Assignments.html) 
 
