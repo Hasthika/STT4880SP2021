@@ -17,6 +17,9 @@ output:
 * Go over syllabus.
 * Chapter 6: Point Estimation (6.1 - Descriptive Statistics)
 
+*Lecture recordings*
+
+  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/S76r370t-xKnXB260_P2ckgNdqn3aTDxh-ZTezDG3PNXsGMJE1b8ReEd_rLNqMGH.qI6WSKuCtqbxRuU_) 
 
 ***
 
