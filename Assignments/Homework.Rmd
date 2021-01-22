@@ -13,7 +13,7 @@ output:
 ***
 
 * *Homework 1*: Due Thursday, January 23rd
-    * Sec 6.1 - 2, 4, 5, 8, 10
+    * Sec 6.1 - 2, 4 ($K = 8$, First class interval is $(303.5, 307.5)$), 6, 8, 10
     
 
 ***
