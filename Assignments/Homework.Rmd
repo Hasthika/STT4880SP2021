@@ -13,7 +13,7 @@ output:
 ***
 
 * *Homework 1*: Due Thursday, January 28th
-    * Sec 6.1 - 2, 4 ($K = 8$, First class interval is $(303.5, 307.5)$), 6, 8, 10
+    * Sec 6.1 - 2, 4 ($K = 8$, First class interval is $(303.5, 307.5)$), 6, 8 (Use the class boundaries 3.5005, 3.5505, 3.6005, ....., 4.1005. You will end up getting about 12 classes.), 10
     
 
 ***

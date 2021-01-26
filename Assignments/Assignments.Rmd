@@ -30,6 +30,10 @@ output:
 * In Class Quiz 01 (Thursday the 23rd, last 20 minutes of class)
 * [Homework 1: Due Thursday the 28rd](Homework.html)
 
+*Lecture recordings*
+
+  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/QxaJHcCo0ipfyaF-WxKFDDWVoNaDXsMsHsaWhB8OtVMJ3X0fnIZ0QJ7iMAzHCqR4.wgLTYWRU601w6B6L)
+
 ***
 
 **Week 3: (February 01 -- 05)**
