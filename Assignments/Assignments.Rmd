@@ -39,7 +39,7 @@ output:
 **Week 3: (February 01 -- 05)**
 
 * Chapter 6: Point Estimation (6.3 - Order Statistics)
-* In Class Quiz 02 (Thursday the 30th, last 20 minutes of class)
+* In Class Quiz 02 (Thursday, last 20 minutes of class)
 * [Homework 2: Due Thursday the 4th](Homework.html)
 
 ***
@@ -47,7 +47,7 @@ output:
 **Week 4: (February 08 -- 12)**
 
 * Chapter 6: Point Estimation (6.4 - Maximum Likelihood Estimation)
-* In Class Quiz 03 (Thursday the 06th, last 20 minutes of class)
+* In Class Quiz 03 (Thursday, last 20 minutes of class)
 * [Homework 3: Due Thursday](Homework.html)
 
 ***

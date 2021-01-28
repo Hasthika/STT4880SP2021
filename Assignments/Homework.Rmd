@@ -17,12 +17,12 @@ output:
     
 
 ***
-<!--
 
-* *Homework 2*: Due Thursday, January 30th
+
+* *Homework 2*: Due Thursday, Feb 04th
     * Sec 6.2 - 2, 4, 6, 8, 10
 
- 
+<!--
 ***
   
 * *Homework 3*: Due Thursday, February 06th
