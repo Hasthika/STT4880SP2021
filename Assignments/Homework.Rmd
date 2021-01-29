@@ -20,7 +20,7 @@ output:
 
 
 * *Homework 2*: Due Thursday, Feb 04th
-    * Sec 6.2 - 2, 4, 6, 8, 10
+    * Sec 6.2 - 2, 4, 6, 8, 10 (class boundaries 2.85, 3.85, . . . , 16.85)
 
 <!--
 ***
