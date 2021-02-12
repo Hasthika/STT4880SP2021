@@ -30,13 +30,14 @@ output:
 
  
 ***
-<!--
-* *Homework 4*: Due Thursday, February 13th
+
+* *Homework 4*: Due Thursday, February 18th
     * Sec 6.4 - 3, 5 (a and b only), 6 (Use of R is fine), 9, 12
 
  
 ***
 
+<!--
 * *Homework 5*: Due Thursday, February 25th
     * Sec 7.1 - 2, 4, 6, 8, 10, 12
 
