@@ -65,10 +65,16 @@ output:
 
 **Week 5: (February 15 -- 19)**
 
+**Reminder: Test 1 next week!**
+
 * Chapter 7: Interval Estimation (7.1 - Confidence Intervals for Means)
 * In Class Quiz 04 (Thursday the 13th , last 20 minutes of class)
 * [Homework 4: Due Thursday](Homework.html)
 
+*Lecture recordings*
+
+  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/SQ7vpQAlhqqpDLbaYNq2MNFQM6BEcWeYoBNqiHFwrfE-8oSYL3agUIGMX4PoULbj.D5_hrQEATdOHGfuZ)
+  
 
 ***
 
