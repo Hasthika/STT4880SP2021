@@ -74,7 +74,7 @@ output:
 *Lecture recordings*
 
   * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/SQ7vpQAlhqqpDLbaYNq2MNFQM6BEcWeYoBNqiHFwrfE-8oSYL3agUIGMX4PoULbj.D5_hrQEATdOHGfuZ)
-  
+  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/7COzCCYP3oycM6vBWzuiOlp-AcA9A6W48tRhodp5ley9WNnkiUpgVbh1njqDi8Nh.NGqspanJg4vgsIJj)  
 
 ***
 
@@ -84,6 +84,11 @@ output:
 of Two Means)
 
 * Test 01 (Thursday)
+
+*Lecture recordings*
+
+  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/BF8XciHSRDqqWjGxd3pPB6aU022HAljqMfh67z1X0hOiTsHBfbKsIBakyQAdkP1T.cc24BoaJvq_UfFUX)
+  
 
 ***
 
