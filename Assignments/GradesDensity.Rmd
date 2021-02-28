@@ -1,0 +1,60 @@
+---
+title: "Exam 1 grades"
+author: "Dr. Hasthika Rupasinghe"
+date: '`r format(Sys.time(), "%b %d, %Y at %X")`'
+output:
+  bookdown::html_document2:
+    highlight: textmate
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(plotly)
+library(ggplot2)
+```
+
+# STT 4880 Exam 1 grades Spring 2021.{-}
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(plotly)
+library(ggplot2)
+Class2 <- c(100, 90, 90, 100, 93, 100, 51, 80, 92, 60, 86, 97, 83, 92)
+
+
+p2 <- ggplot(data = data.frame(Class2), aes(x = Class2)) + 
+  geom_density(fill = "gold2") + 
+  theme_bw() + 
+  labs(x = "Exam 1 grades") +
+  geom_vline(xintercept=median(Class2), linetype="dotted") +
+  annotate("text",x=median(Class2)+1,y=0.01,label="Exam Average = 91",hjust=0)
+
+ggplotly(p2)
+
+
+p3 <- ggplot(data = data.frame(Class2), aes(y = Class2)) + 
+  geom_boxplot(fill = "pink") + 
+  theme_bw() + 
+  labs(x = "Exam 1 grades") 
+
+p3
+
+
+library(dplyr)
+library(knitr)
+
+q <- quantile(Class2)
+
+q <- as.matrix(q)
+rownames(q) <- c("Min", "Q1", "Median", "Q3", "Max")
+colnames(q) <- c("Value")
+kable(q)
+
+
+```
+
+
+
+
+
+

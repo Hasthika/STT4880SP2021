@@ -94,6 +94,8 @@ of Two Means)
 
 **Week 7: (March 01 -- 05)**
 
+* Exam 1 grades [distribution](GradesDensity.html)
+
 * Chapter 7: Interval Estimation (7.3 - Confidence Intervals for Proportions) 
 * In Class Quiz 05 (Thursday the 27th , last 20 minutes of class)
 * [Homework 5: Due Tuesday](Homework.html)
