@@ -51,16 +51,18 @@ output:
  
 ***
 
-<!--
 
-***
 
-* *Homework 7*: Due Thursday, March 24th
+* *Homework 7*: Due Thursday, March 25th
     * Sec 7.3 - 1 a),b),d),e), 4, 6, 8, 10
     * Sec 7.4 - 2, 3, 6, 8, 10
     
  ***   
  
+ <!--
+
+***
+
  * *Homework 8*: Due Thursday, March 31th
     * Sec 8.1 - 2, 4, 6, 8, 10, 12
     * Sec 8.2 - 2, 4, 6, 8, 10, 12
