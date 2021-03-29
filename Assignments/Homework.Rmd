@@ -59,15 +59,15 @@ output:
     
  ***   
  
+
+ * *Homework 8*: Due Thursday, April 1st
+    * Sec 8.1 - 2, 4, 6, 8, 10, 12
+    * Sec 8.2 - 2, 4, 6, 8, 10, 12
+    
  <!--
 
 ***
 
- * *Homework 8*: Due Thursday, March 31th
-    * Sec 8.1 - 2, 4, 6, 8, 10, 12
-    * Sec 8.2 - 2, 4, 6, 8, 10, 12
-    
-    
  *** 
  
  * *Homework 9*: Due  Tuesday, April 14th
