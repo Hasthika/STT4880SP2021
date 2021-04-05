@@ -159,11 +159,12 @@ of Two Means)
 **Week 11: (March 29 -- April 02)**
 
 * Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
-* Test 02 - Thursday the 09th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
+* Test 02 - Thursday the 08th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
 
 *Lecture recordings*
 
   * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/8YJUEut_GEvvDxhQul_2NvR5abXtT9uEKQRa5DjLHneA6Gse7dntH5kkjGSbMpDT.lmZPg5TUdcJk65f5)
+  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/ASHSoICYU_RgNR-pzXENcC9TNzTrrsMmfGROrPrNDRfQ04f07I9gdTnvjoeIj7Ld.I-qGABs_XgWcv9r7)
 
 <!--
 * [Lecture Video for Section 8.4 part 2](https://appstate.zoom.us/rec/share/6_dbDYHI8EZOfZXXq2_jdJAuE5u6eaa8gyAf_vEKzEzaCrejg65aUdT3sVYzJU1L)
@@ -176,8 +177,9 @@ of Two Means)
 
 * Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
 * Chapter 9: More Tests (9.2 - Contingency Tables)
-* [Homework 9: Due Tuesday](Homework.html)
-* In Class Quiz 09 (Thursday, last 20 min of class)
+* [Homework 9: Due Tuesday next week](Homework.html)
+* Test 2 Thursday
+
 
 <!--
 * [Lecture Video for Section 9.1 part 1](https://appstate.zoom.us/rec/share/2NwqEp7c21hIHa-X-Hv8XKwxJtTaT6a8hnRN-fcKnR0hYPPM2NXIdwd5FCrXZrKU?startTime=1586870629000)
@@ -190,6 +192,7 @@ of Two Means)
 **Week 13: (April 12 -- 16)**
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
+* In Class Quiz 09 (Thursday, last 20 min of class)
 * In Class Quiz 10 (Thursday the 23rd, last 20 min of class)
 * [Homework 10: Due Tuesday](Homework.html)
 
