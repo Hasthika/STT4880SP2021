@@ -72,24 +72,20 @@ output:
 
 ***
 
- <!--
 
-
-
- ***  
  
- * *Homework 10*: Due  Tuesday, April 21st
+ * *Homework 10*: Due  Tuesday, April 27th
     * Sec 9.1 - 2, 4, 6, 8, 10
     
-    
+
  ***  
  
- * *Homework 11*: Due Tuesday, April 28th
+ * *Homework 11*: Practice. No submission required
     * Sec 9.2 - 4, 6, 8, 10 (For Q4: $\leq$ 61, 62-78, 79 $\geq$ )
      
     
  ***  
- -->
+
  
 [Probability and Statistical Infernce - 9th Edition](TextBook.pdf)
 
