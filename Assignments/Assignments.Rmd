@@ -1,5 +1,5 @@
 ---
-title: "Schedule for STT 4880 - Spring 2021"
+title: "Schedule for STT 4880 - Spring 2022"
 author: "Dr. Hasthika Rupasinghe"
 date: 'Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")`'
 output: 
@@ -17,10 +17,7 @@ output:
 * Go over syllabus.
 * Chapter 6: Point Estimation (6.1 - Descriptive Statistics)
 
-*Lecture recordings*
 
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/S76r370t-xKnXB260_P2ckgNdqn3aTDxh-ZTezDG3PNXsGMJE1b8ReEd_rLNqMGH.qI6WSKuCtqbxRuU_) 
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/iL0Ok-VxS8vnJlRmOqxRqEn0yr9g0JWmBOAIXyCSf8d-gDhsTrIDLVaeGAe5sl9A._IJwTyhTGnKVQNzc)
 
 ***
 
@@ -30,10 +27,6 @@ output:
 * In Class Quiz 01 (Thursday the 23rd, last 20 minutes of class)
 * [Homework 1: Due Thursday the 28rd](Homework.html)
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/QxaJHcCo0ipfyaF-WxKFDDWVoNaDXsMsHsaWhB8OtVMJ3X0fnIZ0QJ7iMAzHCqR4.wgLTYWRU601w6B6L)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/5Ws-zJtcnkYx6BUDMCnaI8nzf4bWVmlmRPBNsHUaEI9ATPCqdUWmtw8NMtQ68tl6.0BvWksJj82ZFaZHt)
 
 ***
 
@@ -43,11 +36,6 @@ output:
 * In Class Quiz 02 (Thursday, last 20 minutes of class)
 * [Homework 2: Due Thursday the 4th](Homework.html)
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/hpz54vKnbO9R9xVTXyz7ln13hUIfIZlPytt6bjMlW7iJx8mH-K9pysQY-2_sVxgf.ME1u6uleMaarDAcQ)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/2jYj0mk8mGuMYyg0V2_003iZ_1_eV44yZRK_LT695q9VQ9MHtgAQuL4N6HU-24Pf.EvoDGuIBfYSnENEn)
-
 ***
 
 **Week 4: (February 08 -- 12)**
@@ -56,10 +44,6 @@ output:
 * In Class Quiz 03 (Thursday, last 20 minutes of class)
 * [Homework 3: Due Thursday](Homework.html)
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/ldU5qozpfK_0NsVPpkPXNAEMnd7KUCTlNqwkRPVaFiGnxmHidAc0TFFLXD9cbfY2.r8Nqa-EWnudI-fVV)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/n4uXXqGzixYz9q6ooJTSjrVoNHEk-RAhP74e0nJ7zzTjG11D-IsifcnRkEI9nIgj.KwLmEFs900ZPfd0u)  
 
 ***
 
@@ -71,11 +55,6 @@ output:
 * In Class Quiz 04 (Thursday the 13th , last 20 minutes of class)
 * [Homework 4: Due Thursday](Homework.html)
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/SQ7vpQAlhqqpDLbaYNq2MNFQM6BEcWeYoBNqiHFwrfE-8oSYL3agUIGMX4PoULbj.D5_hrQEATdOHGfuZ)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/7COzCCYP3oycM6vBWzuiOlp-AcA9A6W48tRhodp5ley9WNnkiUpgVbh1njqDi8Nh.NGqspanJg4vgsIJj)  
-
 ***
 
 **Week 6: (February 22 -- 26)**
@@ -85,11 +64,6 @@ of Two Means)
 
 * Test 01 (Thursday)
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/BF8XciHSRDqqWjGxd3pPB6aU022HAljqMfh67z1X0hOiTsHBfbKsIBakyQAdkP1T.cc24BoaJvq_UfFUX)
-  * [Thursday's Lecture]()  - Exam day, No recording
-  
 
 ***
 
@@ -101,11 +75,6 @@ of Two Means)
 * In Class Quiz 05 (Thursday the 27th , last 20 minutes of class)
 * [Homework 5: Due Tuesday](Homework.html)
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/wYybOQ-ngg7ATdSYtnEavhLZZDVkg0PIehz0icj99ePaus1bKsA9A7-PfhYnE4-m.o6Adkole2lA68bat)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/y6rbeNfNnjZKUBSgk7xR_NljlyjXybdbG6vx348CRx7c02t7A32ZnasZJE1-V6p6.ydfnv6UZZBz3PZ1i)  
-
 ***
 
 **Week 8: (March 08 -- 12)**
@@ -114,10 +83,6 @@ of Two Means)
 
 * [Homework 6: Due Thursday](Homework.html)
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/yPBBZ1Jj-WO9HUcAgLZnDcEbHW4z1gPBlvxqI-TvhOmO5-yjNyMtum-S-qiLL8UD.I2IoBWhz1gjE6zDp)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/eLdvqpTxcr0XpM8hYFFKbDnykYymS7Y7Xf67ncx5WSGX0kainwCd1N8KhlVQ_InK.4U5EcYZNHUg67F9H)  
 
 ***
 
@@ -128,10 +93,6 @@ of Two Means)
 * In Class Quiz 07 (Thursday the 26th, last 20 min of class)
 * [Homework 7: Due Tuesday](Homework.html)
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/HVHU3xh6Z10YjhZBJD1XHW9ozDjMLQjDBe12-8FOMgCApyB7ZwY-h-raR8intDKW.xtTIaGcJMNR54AG8)
-  * [Thursday's Lecture]()  - day off
   
 
 ***
@@ -144,24 +105,12 @@ of Two Means)
 * [Homework 8: Due Tuesday](Homework.html)
 
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/CFfXOatpmCasPBqReVk0HLnK7fLnVkdDer-hCIPqn9IDfUDkwdpCMI-a3Ssfmus.aL885svGsZJ5LcLx)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/I2L4L_QI3m_akDDqDj766mTKJr8R9HUHpPc4LRSBk2ALbOVlm6lEdpPouepR5RFd._7Su1wxVuzHC4sLE)
-
-
 ***
 
 **Week 11: (March 29 -- April 02)**
 
 * Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
 * Test 02 - Thursday the 08th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
-
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/8YJUEut_GEvvDxhQul_2NvR5abXtT9uEKQRa5DjLHneA6Gse7dntH5kkjGSbMpDT.lmZPg5TUdcJk65f5)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/ASHSoICYU_RgNR-pzXENcC9TNzTrrsMmfGROrPrNDRfQ04f07I9gdTnvjoeIj7Ld.I-qGABs_XgWcv9r7)
-
 
 
 ***
@@ -186,13 +135,6 @@ of Two Means)
 * [Homework 10: Due Tuesday](Homework.html)
 
 
-*Lecture recordings*
-
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/1pTpB3kR-5spdsyUJLUa0y8yOcDq7HsDrJvgIbig-7JP-WQmowOllCYL36HRbRpp.yERCKkvyVgG9digz)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/i2L-4FotsQunKTbdNu-VmNMAvfA8MKfwhxYrBYUCQSUQQQ9JDka5GX4qUgwpgnpU.vTEG_WrwcdG1vwWp)
-
-
-
 ***
 
 **Week 14: (April 19 -- 23)**
@@ -200,8 +142,6 @@ of Two Means)
 * [Homework 11: Due Tuesday](Homework.html)
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/Xf7JR3oKvLV3L4G-ZIQpFkf8kpJAqc7kNb4hKA2Z9yphpKWlNYwSNPD2oAx7so7C.qaNrE_26dhj7MUen)
-  * [Thursday's Lecture](https://appstate.zoom.us/rec/share/F9jljQunLT9z7sx-jv6uC_Ph845ChCWCOoMi93uK-5BCvth84QpE8txuFGhA_2dp.JqiZu7sTxV4LlAB1)
 
 ***
 
@@ -209,7 +149,6 @@ of Two Means)
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 
-  * [Tuesday's Lecture](https://appstate.zoom.us/rec/share/FYlkd0vpni7o18ez9R-LBhsH4pdxPRvfJqwYNHajs6EBUiRVuHwYMwvj3mCl6uN9.ejk-HsZi-W3URiz5)
 
 ***
 
@@ -217,7 +156,7 @@ of Two Means)
 
 ***
 
-# [Home Page](https://hasthika.github.io/STT4880SP2021/index.html) - 
+# [Home Page](https://hasthika.github.io/STT4880SP2022/index.html) - 
 
 
 
