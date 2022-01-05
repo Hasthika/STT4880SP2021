@@ -12,7 +12,7 @@ output:
 
 ***
 
-**Week 1: (January 18 -- 22)**
+**Week 1: (January 10 -- 14)**
 
 * Go over syllabus.
 * Chapter 6: Point Estimation (6.1 - Descriptive Statistics)
@@ -21,24 +21,24 @@ output:
 
 ***
 
-**Week 2: (January 25 -- 29)** 
+**Week 2: (January 17 -- 21)** 
 
 * Chapter 6: Point Estimation (6.2 - Exploratory Data Analysis)
 * In Class Quiz 01 (Thursday the 23rd, last 20 minutes of class)
-* [Homework 1: Due Thursday the 28rd](Homework.html)
+* [Homework 1: Due Thursday](Homework.html)
 
 
 ***
 
-**Week 3: (February 01 -- 05)**
+**Week 3: (January 24 -- 28)**
 
 * Chapter 6: Point Estimation (6.3 - Order Statistics)
 * In Class Quiz 02 (Thursday, last 20 minutes of class)
-* [Homework 2: Due Thursday the 4th](Homework.html)
+* [Homework 2: Due Thursday](Homework.html)
 
 ***
 
-**Week 4: (February 08 -- 12)**
+**Week 4: (January  31 -- February 4)**
 
 * Chapter 6: Point Estimation (6.4 - Maximum Likelihood Estimation)
 * In Class Quiz 03 (Thursday, last 20 minutes of class)
@@ -47,7 +47,7 @@ output:
 
 ***
 
-**Week 5: (February 15 -- 19)**
+**Week 5: (February 7 -- 11)**
 
 **Reminder: Test 1 next week!**
 
@@ -57,7 +57,7 @@ output:
 
 ***
 
-**Week 6: (February 22 -- 26)**
+**Week 6: (February 14 -- 18)**
 
 * Chapter 7: Interval Estimation (7.2 - Confidence Intervals for the Difference
 of Two Means)
@@ -67,7 +67,7 @@ of Two Means)
 
 ***
 
-**Week 7: (March 01 -- 05)**
+**Week 7: (February 21 -- 25)**
 
 * Exam 1 grades [distribution](GradesDensity.html)
 
@@ -77,16 +77,22 @@ of Two Means)
 
 ***
 
-**Week 8: (March 08 -- 12)**
+**Week 8: (February 28 -- March 4)**
 
 * Chapter 7: Interval Estimation (7.4 - Sample Size) 
 
 * [Homework 6: Due Thursday](Homework.html)
 
+***
+
+**Week 8: (March 7 --  11)**
+
+* Spring Break- No classes
+
 
 ***
 
-**Week 09: (March 15 -- 19)**
+**Week 09: (March 14 -- 18)**
 
 * Chapter 8: Tests of Statistical Hypotheses (8.1 - Tests About One Mean) 
 * Chapter 8: Tests of Statistical Hypotheses (8.2 - Tests of the Equality of Two Means)
@@ -97,7 +103,7 @@ of Two Means)
 
 ***
 
-**Week 10: (March 22 -- 26)**
+**Week 10: (March 21 -- 25)**
 
 
 * Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
@@ -107,7 +113,7 @@ of Two Means)
 
 ***
 
-**Week 11: (March 29 -- April 02)**
+**Week 11: (March 28 -- April 01)**
 
 * Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
 * Test 02 - Thursday the 08th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
@@ -115,7 +121,7 @@ of Two Means)
 
 ***
 
-**Week 12: (April 05 -- 09)**
+**Week 12: (April 04 -- 08)**
 
 * Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
 * Chapter 9: More Tests (9.2 - Contingency Tables)
@@ -127,7 +133,7 @@ of Two Means)
 
 ***
 
-**Week 13: (April 12 -- 16)**
+**Week 13: (April 11 -- 15)**
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 * In Class Quiz 09 (Thursday, last 20 min of class)
@@ -137,7 +143,7 @@ of Two Means)
 
 ***
 
-**Week 14: (April 19 -- 23)**
+**Week 14: (April 18 -- 22)**
 
 * [Homework 11: Due Tuesday](Homework.html)
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
@@ -145,8 +151,9 @@ of Two Means)
 
 ***
 
-**Week 15: (April 26 -- 30)**
+**Week 15: (April 25 -- 29)**
 
+* April 27 is last day of classes
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 
 
@@ -156,7 +163,7 @@ of Two Means)
 
 ***
 
-# [Home Page](https://hasthika.github.io/STT4880SP2022/index.html) - 
+# [Home Page](https://hasthika.github.io/STT4880SP2021/index.html) - 
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Homework for STT 4880 - SP 2021"
+title: "Homework for STT 4880 - SP 2022"
 author: "Dr. Hasthika Rupasinghe"
 date: 'Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")`'
 output: 
@@ -12,12 +12,14 @@ output:
 
 ***
 
-* *Homework 1*: Due Thursday, January 28th
-    * Sec 6.1 - 2, 4 ($K = 8$, First class interval is $(303.5, 307.5)$), 6, 8 (Use the class boundaries 3.5005, 3.5505, 3.6005, ....., 4.1005. You will end up getting about 12 classes.), 10
+* *Homework 1*: Due Thursday, January 20th
+
+  * Sec 6.1 - 2, 4 ($K = 8$, First class interval is $(303.5, 307.5)$), 6, 8 (Use the class boundaries 3.5005, 3.5505, 3.6005, ....., 4.1005. You will end up getting about 12 classes.), 10
     
 
 ***
 
+<!--
 
 * *Homework 2*: Due Thursday, Feb 04th
     * Sec 6.2 - 2, 4, 6, 8, 10 (class boundaries 2.85, 3.85, . . . , 16.85)
@@ -86,8 +88,9 @@ output:
     
  ***  
 
+-->
  
-[Probability and Statistical Infernce - 9th Edition](TextBook.pdf)
+[Probability and Statistical Inference - 9th Edition](TextBook.pdf)
 
 
 
