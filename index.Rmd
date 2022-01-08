@@ -9,7 +9,7 @@ title: "Welcome to Mathematical Statistics"
 
 * Course [`Pacing and Assignments`](./Assignments/Assignments.html) 
 
-* Click [here](https://forms.gle/2AYwnfcoVBcT1dcH9) to record your attendance.
+* Click [`here`](https://forms.gle/DYqU7ZHgUTuXGxS18) to record your attendance.
 
 
 ***
