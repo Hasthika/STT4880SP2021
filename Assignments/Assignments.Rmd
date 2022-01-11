@@ -24,7 +24,7 @@ output:
 **Week 2: (January 17 -- 21)** 
 
 * Chapter 6: Point Estimation (6.2 - Exploratory Data Analysis)
-* In Class Quiz 01 (Thursday the 23rd, last 20 minutes of class)
+* In Class Quiz 01 (Thursday, last 20 minutes of class)
 * [Homework 1: Due Thursday](Homework.html)
 
 
@@ -52,7 +52,7 @@ output:
 **Reminder: Test 1 next week!**
 
 * Chapter 7: Interval Estimation (7.1 - Confidence Intervals for Means)
-* In Class Quiz 04 (Thursday the 13th , last 20 minutes of class)
+* In Class Quiz 04 (Thursday, last 20 minutes of class)
 * [Homework 4: Due Thursday](Homework.html)
 
 ***
@@ -72,7 +72,7 @@ of Two Means)
 * Exam 1 grades [distribution](GradesDensity.html)
 
 * Chapter 7: Interval Estimation (7.3 - Confidence Intervals for Proportions) 
-* In Class Quiz 05 (Thursday the 27th , last 20 minutes of class)
+* In Class Quiz 05 (Thursday, last 20 minutes of class)
 * [Homework 5: Due Tuesday](Homework.html)
 
 ***
@@ -96,7 +96,7 @@ of Two Means)
 
 * Chapter 8: Tests of Statistical Hypotheses (8.1 - Tests About One Mean) 
 * Chapter 8: Tests of Statistical Hypotheses (8.2 - Tests of the Equality of Two Means)
-* In Class Quiz 07 (Thursday the 26th, last 20 min of class)
+* In Class Quiz 07 (Thursday, last 20 min of class)
 * [Homework 7: Due Tuesday](Homework.html)
 
   
@@ -107,7 +107,7 @@ of Two Means)
 
 
 * Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
-* In Class Quiz 08 (Thursday the 02nd, last 20 min of class)
+* In Class Quiz 08 (Thursday, last 20 min of class)
 * [Homework 8: Due Tuesday](Homework.html)
 
 
@@ -137,7 +137,6 @@ of Two Means)
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 * In Class Quiz 09 (Thursday, last 20 min of class)
-* In Class Quiz 10 (Thursday the 23rd, last 20 min of class)
 * [Homework 10: Due Tuesday](Homework.html)
 
 
@@ -145,8 +144,10 @@ of Two Means)
 
 **Week 14: (April 18 -- 22)**
 
-* [Homework 11: Due Tuesday](Homework.html)
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
+* In Class Quiz 10 (Thursday, last 20 min of class)
+* [Homework 11: Due Tuesday](Homework.html)
+
 
 
 ***
