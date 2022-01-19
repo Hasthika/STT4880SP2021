@@ -19,19 +19,21 @@ output:
 
 ***
 
-<!--
 
-* *Homework 2*: Due Thursday, Feb 04th
+
+* *Homework 2*: Due Thursday, January 27th
     * Sec 6.2 - 2, 4, 6, 8, 10 (class boundaries 2.85, 3.85, . . . , 16.85)
 
 
 ***
   
-* *Homework 3*: Due Thursday, February 11th
+* *Homework 3*: Due Thursday, February 3rd
     * Sec 6.3 - 1, 2, 3, 7, 8
 
  
 ***
+
+<!--
 
 * *Homework 4*: Due Thursday, February 18th
     * Sec 6.4 - 3, 5 (a and b only), 6 (Use of R is fine), 9, 12
