@@ -1,0 +1,54 @@
+---
+title: "MLE Simulation: Coin Toss"
+author: "Dr. Hasthika Rupasinghe"
+date: "1/31/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE}
+library(purrr)
+p <- 0.5 # True probability
+
+n <- 30 # Sample size
+sam <- rbernoulli(n, p) # Sample - simulates a coin toss n times
+sam
+
+# Likelihood function
+L <- function(p = 0.5){
+prob <- 1
+ans <- 1
+
+  for (i in 1:n) {
+    ans <- p^sam[i]*(1-p)^(1-sam[i])
+    prob <- prob*ans
+  }
+  
+return(prob)
+}
+
+# possible values for p
+p <- seq(0, 1, 0.01)
+p
+
+Lvals <- numeric(length(p))
+
+for(j in 1:length(p)){
+  
+  Lvals[j] <- L(p[j])
+  
+}
+
+dat <- data.frame(p, Lvals)
+
+library(ggplot2)
+pl <- ggplot(dat, aes(x=p, y=Lvals)) + geom_point(color = "red") + geom_line(color = "steelblue") + theme_bw()
+library(plotly)
+ggplotly(pl)
+
+
+``` 
+

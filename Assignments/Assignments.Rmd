@@ -41,6 +41,8 @@ output:
 **Week 4: (January  31 -- February 4)**
 
 * Chapter 6: Point Estimation (6.4 - Maximum Likelihood Estimation)
+* Maximum Likelihood Estimation --- Simulation
+
 * In Class Quiz 03 (Thursday, last 20 minutes of class)
 * [Homework 3: Due Thursday](Homework.html)
 
