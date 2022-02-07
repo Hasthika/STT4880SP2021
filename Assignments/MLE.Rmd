@@ -50,5 +50,7 @@ library(plotly)
 ggplotly(pl)
 
 
+MLE <- mean(sam)
+MLE
 ``` 
 
