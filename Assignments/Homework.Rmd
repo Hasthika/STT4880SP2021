@@ -50,7 +50,7 @@ output:
 
 
 
-* *Homework 6*: Due Thursday, March 3rd
+* *Homework 6*: Due Tuesday, March 15th
     * Sec 7.2 - 1, 2, 4, 6, 12
 
  
@@ -59,7 +59,7 @@ output:
 
 
 
-* *Homework 7*: Due Thursday, March 10th
+* *Homework 7*: Due Thursday, March 24th
     * Sec 7.3 - 1 a),b),d),e), 4, 6, 8, 10
     * Sec 7.4 - 2, 3, 6, 8, 10
     
