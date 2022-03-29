@@ -64,15 +64,17 @@ output:
     * Sec 7.4 - 2, 3, 6, 8, 10
     
  ***   
-<!--
 
- * *Homework 8*: Due Thursday, April 1st
+
+ * *Homework 8*: Due Thursday, March 31st
     * Sec 8.1 - 2, 4, 6, 8, 10, 12
     * Sec 8.2 - 2, 4, 6, 8, 10, 12
     
  *** 
+ <!--
  
- * *Homework 9*: Due  Tuesday, April 13th
+ 
+ * *Homework 9*: Due  Tuesday, April 14th
     * Sec 8.3 - 5, 6, 8, 10, 12 
     * Sec 8.4 - 2, 4, 6
 
@@ -80,13 +82,13 @@ output:
 
 
  
- * *Homework 10*: Due  Tuesday, April 27th
+ * *Homework 10*: Due  Tuesday, April 21st
     * Sec 9.1 - 2, 4, 6, 8, 10
     
 
  ***  
  
- * *Homework 11*: Practice. No submission required
+ * *Homework 11*: Due  Tuesday, April 28th required
     * Sec 9.2 - 4, 6, 8, 10 (For Q4: $\leq$ 61, 62-78, 79 $\geq$ )
      
     
