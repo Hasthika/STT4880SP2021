@@ -125,8 +125,7 @@ of Two Means)
 
 **Week 12: (April 04 -- 08)**
 
-* Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
-* Chapter 9: More Tests (9.2 - Contingency Tables)
+
 * [Homework 9: Due Tuesday next week](Homework.html)
 * Test 2 Thursday
 
@@ -137,7 +136,12 @@ of Two Means)
 
 **Week 13: (April 11 -- 15)**
 
-* Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
+* Exam 2 grades [distribution](GradesDensity.html)
+
+* Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
+* Chapter 9: More Tests (9.2 - Contingency Tables)
+
+
 * In Class Quiz 09 (Thursday, last 20 min of class)
 * [Homework 10: Due Tuesday](Homework.html)
 
