@@ -118,32 +118,29 @@ of Two Means)
 **Week 12: (April 3 -- April 7)**
 
 * Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
-* Test 02 - Thursday the 08th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
-
+* Reminder: Test 02 - Thursday the 13th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
+* [Homework 9: Due Thursday](Homework.html)
 
 ***
 
 **Week 13: (April 10 -- 14)**
 
-
-* [Homework 9: Due Tuesday next week](Homework.html)
+* Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
 * Test 2 Thursday
-
-
 
 
 ***
 
 **Week 14: (April 17 -- 21)**
 
-* Exam 2 grades [distribution](GradesDensity.html)
+* Exam 2 grades [distribution]()
 
 * Chapter 9: More Tests (9.1 - Chi-Square Goodness-of-Fit Tests)
 * Chapter 9: More Tests (9.2 - Contingency Tables)
 
 
 * In Class Quiz 09 (Thursday, last 20 min of class)
-* [Homework 10: Due Tuesday](Homework.html)
+* [Homework 10: Due Thursday](Homework.html)
 
 
 ***
@@ -152,7 +149,7 @@ of Two Means)
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 * In Class Quiz 10 (Thursday, last 20 min of class)
-* [Homework 11: Due Tuesday](Homework.html)
+* [Homework 11: Due Thursday](Homework.html)
 
 
 

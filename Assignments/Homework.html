@@ -387,8 +387,8 @@ pre code {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -396,16 +396,9 @@ pre code {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -452,95 +445,97 @@ pre code {
 
 <h1 class="title toc-ignore">Homework for STT 4880 - SP 2022</h1>
 <h4 class="author">Dr. Hasthika Rupasinghe</h4>
-<h4 class="date">Last Updated on: Apr 11, 2022 at 04:15:17 PM</h4>
+<h4 class="date">Last Updated on: Jan 11, 2023 at 01:19:44 PM</h4>
 
 </div>
 
 
 <hr />
 <ul>
-<li><p><em>Homework 1</em>: Due Thursday, January 20th</p>
+<li><p><em>Homework 1</em>: Due Thursday, January 26th</p>
 <ul>
 <li>Sec 6.1 - 2, 4 (<span class="math inline">\(K = 8\)</span>, First class interval is <span class="math inline">\((303.5, 307.5)\)</span>), 6, 8 (Use the class boundaries 3.5005, 3.5505, 3.6005, ….., 4.1005. You will end up getting about 12 classes.), 10</li>
 </ul></li>
 </ul>
 <hr />
-<ul>
-<li><em>Homework 2</em>: Due Thursday, January 27th
-<ul>
-<li>Sec 6.2 - 2, 4, 6, 8, 10 (class boundaries 2.85, 3.85, . . . , 16.85)</li>
-</ul></li>
-</ul>
-<hr />
-<ul>
-<li><em>Homework 3</em>: Due Thursday, February 3rd
-<ul>
-<li>Sec 6.3 - 1, 2, 3, 7, 8</li>
-</ul></li>
-</ul>
-<hr />
-<ul>
-<li><em>Homework 4</em>: Due Thursday, February 10th
-<ul>
-<li>Sec 6.4 - 3, 5 (a and b only), 6 (Use of R is fine), 9, 12</li>
-</ul></li>
-</ul>
-<hr />
-<ul>
-<li><em>Homework 5</em>: Due Thursday, February 24th
-<ul>
-<li>Sec 7.1 - 2, 4, 6, 8, 10, 12</li>
-</ul></li>
-</ul>
-<hr />
-<ul>
-<li><em>Homework 6</em>: Due Tuesday, March 15th
-<ul>
-<li>Sec 7.2 - 1, 2, 4, 6, 12</li>
-</ul></li>
-</ul>
-<hr />
-<ul>
-<li><em>Homework 7</em>: Due Thursday, March 24th
-<ul>
-<li>Sec 7.3 - 1 a),b),d),e), 4, 6, 8, 10</li>
-<li>Sec 7.4 - 2, 3, 6, 8, 10</li>
-</ul></li>
-</ul>
-<hr />
-<ul>
-<li><em>Homework 8</em>: Due Thursday, March 31st
-<ul>
-<li>Sec 8.1 - 2, 4, 6, 8, 10, 12</li>
-<li>Sec 8.2 - 2, 4, 6, 8, 10, 12</li>
-</ul></li>
-</ul>
-<hr />
-<ul>
-<li><em>Homework 9</em>: Due Tuesday, April 14th
-<ul>
-<li>Sec 8.3 - 5, 6, 8, 10, 12</li>
-</ul></li>
-</ul>
-<hr />
-<ul>
-<li><em>Homework 10</em>: Due Tuesday, April 21st
-<ul>
-<li>Sec 8.4 - 2, 4, 6</li>
-<li>Sec 9.1 - 2, 4, 6, 8, 10</li>
-</ul></li>
-</ul>
-<p><!--
+<!--
+
+* *Homework 2*: Due Thursday, February 2nd
+    * Sec 6.2 - 2, 4, 6, 8, 10 (class boundaries 2.85, 3.85, . . . , 16.85)
+
+
+***
+  
+* *Homework 3*: Due Thursday, February 9th
+    * Sec 6.3 - 1, 2, 3, 7, 8
+
+ 
+***
+
+
+* *Homework 4*: Due Thursday, February 16th
+    * Sec 6.4 - 3, 5 (a and b only), 6 (Use of R is fine), 9, 12
+
+ 
+***
+
+
+
+
+* *Homework 5*: Due Thursday, March 2nd
+    * Sec 7.1 - 2, 4, 6, 8, 10, 12
+
+***
+
+
+
+* *Homework 6*: Due Tuesday, March 9th
+    * Sec 7.2 - 1, 2, 4, 6, 12
+
+ 
+***
+
+
+
+
+* *Homework 7*: Due Thursday, March 23rd
+    * Sec 7.3 - 1 a),b),d),e), 4, 6, 8, 10
+    * Sec 7.4 - 2, 3, 6, 8, 10
+    
+ ***   
+
+
+ * *Homework 8*: Due Thursday, March 30th
+    * Sec 8.1 - 2, 4, 6, 8, 10, 12
+    * Sec 8.2 - 2, 4, 6, 8, 10, 12
+    
+ *** 
+
+ * *Homework 9*: Due  Thursday, April 6th
+    * Sec 8.3 - 5, 6, 8, 10, 12 
+
+
+***
+
+
+ 
+ 
+ 
+ * *Homework 10*: Due  Thursday, April 20th
+    * Sec 8.4 - 2, 4, 6
+    * Sec 9.1 - 2, 4, 6, 8, 10
+    
+
  
  ***  
  
- * *Homework 11*: Due  Tuesday, April 28th required
+ * *Homework 11*: Due  Thursday, April 27th 
     * Sec 9.2 - 4, 6, 8, 10 (For Q4: $\leq$ 61, 62-78, 79 $\geq$ )
      
     
  ***  
 
---></p>
+-->
 <p><a href="TextBook.pdf">Probability and Statistical Inference - 9th Edition</a></p>
 
 
