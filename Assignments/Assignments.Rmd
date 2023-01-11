@@ -1,5 +1,5 @@
 ---
-title: "Schedule for STT 4880 - Spring 2022"
+title: "Schedule for STT 4880 - Spring 2023"
 author: "Dr. Hasthika Rupasinghe"
 date: 'Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")`'
 output: 
@@ -12,7 +12,7 @@ output:
 
 ***
 
-**Week 1: (January 10 -- 14)**
+**Week 1: (January 16 -- 20)**
 
 * Go over syllabus.
 * Chapter 6: Point Estimation (6.1 - Descriptive Statistics)
@@ -21,7 +21,7 @@ output:
 
 ***
 
-**Week 2: (January 17 -- 21)** 
+**Week 2: (January 23 -- 27)** 
 
 * Chapter 6: Point Estimation (6.2 - Exploratory Data Analysis)
 * In Class Quiz 01 (Thursday, last 20 minutes of class)
@@ -30,7 +30,7 @@ output:
 
 ***
 
-**Week 3: (January 24 -- 28)**
+**Week 3: (January 30 -- February 3)**
 
 * Chapter 6: Point Estimation (6.3 - Order Statistics)
 * In Class Quiz 02 (Thursday, last 20 minutes of class)
@@ -38,7 +38,7 @@ output:
 
 ***
 
-**Week 4: (January  31 -- February 4)**
+**Week 4: (February  6 -- 10)**
 
 * Chapter 6: Point Estimation (6.4 - Maximum Likelihood Estimation)
 * [Maximum Likelihood Estimation --- Simulation](MLE.html)
@@ -49,7 +49,7 @@ output:
 
 ***
 
-**Week 5: (February 7 -- 11)**
+**Week 5: (February 13 -- 17)**
 
 **Reminder: Test 1 next week!**
 
@@ -59,7 +59,7 @@ output:
 
 ***
 
-**Week 6: (February 14 -- 18)**
+**Week 6: (February 20 -- 24)**
 
 * Chapter 7: Interval Estimation (7.2 - Confidence Intervals for the Difference
 of Two Means)
@@ -69,7 +69,7 @@ of Two Means)
 
 ***
 
-**Week 7: (February 21 -- 25)**
+**Week 7: (February 27 -- March 3)**
 
 * Exam 1 grades [distribution](GradesDensity.html)
 
@@ -79,7 +79,7 @@ of Two Means)
 
 ***
 
-**Week 8: (February 28 -- March 4)**
+**Week 8: (March 6 -- 10)**
 
 * Chapter 7: Interval Estimation (7.4 - Sample Size) 
 
@@ -87,14 +87,14 @@ of Two Means)
 
 ***
 
-**Week 8: (March 7 --  11)**
+**Week 9: (March 13 --  17)**
 
 * Spring Break- No classes
 
 
 ***
 
-**Week 09: (March 14 -- 18)**
+**Week 10: (March 20 -- 24)**
 
 * Chapter 8: Tests of Statistical Hypotheses (8.1 - Tests About One Mean) 
 * Chapter 8: Tests of Statistical Hypotheses (8.2 - Tests of the Equality of Two Means)
@@ -105,7 +105,7 @@ of Two Means)
 
 ***
 
-**Week 10: (March 21 -- 25)**
+**Week 11: (March 27 -- 31)**
 
 
 * Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
@@ -115,7 +115,7 @@ of Two Means)
 
 ***
 
-**Week 11: (March 28 -- April 01)**
+**Week 12: (April 3 -- April 7)**
 
 * Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
 * Test 02 - Thursday the 08th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
@@ -123,7 +123,7 @@ of Two Means)
 
 ***
 
-**Week 12: (April 04 -- 08)**
+**Week 13: (April 10 -- 14)**
 
 
 * [Homework 9: Due Tuesday next week](Homework.html)
@@ -134,7 +134,7 @@ of Two Means)
 
 ***
 
-**Week 13: (April 11 -- 15)**
+**Week 14: (April 17 -- 21)**
 
 * Exam 2 grades [distribution](GradesDensity.html)
 
@@ -148,7 +148,7 @@ of Two Means)
 
 ***
 
-**Week 14: (April 18 -- 22)**
+**Week 15: (April 24 -- 28)**
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 * In Class Quiz 10 (Thursday, last 20 min of class)
@@ -158,19 +158,19 @@ of Two Means)
 
 ***
 
-**Week 15: (April 25 -- 29)**
+**Week 16: (May 1 -- 5)**
 
-* April 27 is last day of classes
+* May 2nd is last day of classes
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 
 
 ***
 
-* Final Exam TBA
+* Final Exam is on May 9th from 2PM to 4.30PM
 
 ***
 
-# [Home Page](https://hasthika.github.io/STT4880SP2021/index.html) - 
+# [Home Page](https://hasthika.github.io/STT4880SP2022/index.html) - 
 
 
 
