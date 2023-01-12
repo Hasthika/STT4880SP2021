@@ -1,7 +1,7 @@
 ---
 title: "Syllabus: STT 4880 - Mathematical Statisitics"
 
-author: "Syllabus - Spring 2023"
+author: "Syllabus - Spring 2023 "
 date: ""
 output:
   html_document:
