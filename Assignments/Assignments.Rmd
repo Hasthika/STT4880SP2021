@@ -96,8 +96,8 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 **Week 10: (March 20 -- 24)**
 
-* Chapter 8: Tests of Statistical Hypotheses (8.1 - Tests About One Mean) 
-* Chapter 8: Tests of Statistical Hypotheses (8.2 - Tests of the Equality of Two Means)
+* Chapter 8: Tests of Statistical Hypotheses ([8.1 - Tests About One Mean](./LectureNotes/8_1.pdf)) 
+* Chapter 8: Tests of Statistical Hypotheses ([8.2 - Tests of the Equality of Two Means](./LectureNotes/8_2.pdf))
 * In Class Quiz 07 (Thursday, last 20 min of class)
 * [Homework 7: Due Tuesday](Homework.html)
 
@@ -108,7 +108,8 @@ of Two Means](./LectureNotes/7_2.pdf))
 **Week 11: (March 27 -- 31)**
 
 
-* Chapter 8: Tests of Statistical Hypotheses (8.3 -Tests About Proportions, 8.4 -The Wilcoxon Tests)
+* Chapter 8: Tests of Statistical Hypotheses ([8.3 -Tests About Proportions](./LectureNotes/8_3.pdf))
+* Chapter 8: Tests of Statistical Hypotheses ([8.4 -The Wilcoxon Tests](./LectureNotes/8_4.pdf))
 * In Class Quiz 08 (Thursday, last 20 min of class)
 * [Homework 8: Due Tuesday](Homework.html)
 
@@ -117,7 +118,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 **Week 12: (April 3 -- April 7)**
 
-* Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
+* Chapter 8: Tests of Statistical Hypotheses ([8.4 -The Wilcoxon Tests](./LectureNotes/8_4.pdf))
 * Reminder: Test 02 - Thursday the 13th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
 * [Homework 9: Due Thursday](Homework.html)
 
@@ -125,7 +126,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 **Week 13: (April 10 -- 14)**
 
-* Chapter 8: Tests of Statistical Hypotheses (8.4 -The Wilcoxon Tests)
+* Chapter 8: Tests of Statistical Hypotheses ([8.4 -The Wilcoxon Tests](./LectureNotes/8_4.pdf))
 * Test 2 Thursday
 
 
