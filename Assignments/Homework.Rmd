@@ -34,7 +34,7 @@ output:
  
 ***
 
-<!--
+
 
 
 * *Homework 4*: Due Thursday, February 16th
@@ -43,6 +43,7 @@ output:
  
 ***
 
+<!--
 
 
 
