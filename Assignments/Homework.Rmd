@@ -43,14 +43,14 @@ output:
  
 ***
 
-<!--
 
-
-
-* *Homework 5*: Due Thursday, March 2nd
+* *Homework 5*: Due Thursday, February 23rd
     * Sec 7.1 - 2, 4, 6, 8, 10, 12
 
 ***
+
+
+<!--
 
 
 
