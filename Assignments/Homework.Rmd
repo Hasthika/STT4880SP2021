@@ -50,15 +50,13 @@ output:
 ***
 
 
-<!--
-
-
-
 * *Homework 6*: Due Tuesday, March 9th
     * Sec 7.2 - 1, 2, 4, 6, 12
 
  
 ***
+
+<!--
 
 
 
