@@ -76,8 +76,7 @@ output:
  * *Homework 9*: Due  Thursday, April 14th
  
     * Sec 8.2 - 2, 4, 6, 8, 10
-    * Sec 8.3 - 5, 6, 8, 10, 12 
-
+    * Sec 8.3 - 5, 6, ~~8~~, 10, ~~12~~ (I removed two problems due to uploading this section late)
 
 ***
 
