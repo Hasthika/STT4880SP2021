@@ -80,7 +80,7 @@ output:
 
 ***
 
- * *Homework 10*: Due  Thursday, April 20th
+ * *Homework 10*: Due  Thursday, April 27th
     * Sec 8.4 - 2, 4, 6
     * Sec 9.1 - 2, 4, 6, 8, 10
 
