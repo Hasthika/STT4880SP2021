@@ -12,7 +12,7 @@ output:
 
 ***
 
-**Week 1: (January 16 -- 20)**
+**Week 1: (January 16 -- 19)**
 
 * Go over syllabus.
 * Chapter 6: Point Estimation ([6.1 - Descriptive Statistics](./LectureNotes/6_1.pdf))
@@ -21,7 +21,7 @@ output:
 
 ***
 
-**Week 2: (January 23 -- 27)** 
+**Week 2: (January 22 -- 26)** 
 
 * Chapter 6: Point Estimation ([6.2 - Exploratory Data Analysis](./LectureNotes/6_2.pdf))
 * In Class Quiz 01 (Thursday, last 20 minutes of class)
@@ -30,7 +30,7 @@ output:
 
 ***
 
-**Week 3: (January 30 -- February 3)**
+**Week 3: (January 29 -- February 2)**
 
 * Chapter 6: Point Estimation ([6.3 - Order Statistics](./LectureNotes/6_3.pdf))
 * In Class Quiz 02 (Thursday, last 20 minutes of class)
@@ -38,7 +38,7 @@ output:
 
 ***
 
-**Week 4: (February  6 -- 10)**
+**Week 4: (February  5 -- 9)**
 
 * Chapter 6: Point Estimation ([6.4 - Maximum Likelihood Estimation](./LectureNotes/6_4.pdf))
 * [Maximum Likelihood Estimation --- Simulation](MLE.html)
@@ -49,7 +49,7 @@ output:
 
 ***
 
-**Week 5: (February 13 -- 17)**
+**Week 5: (February 12 -- 16)**
 
 **Reminder: Test 1 next week!**
 
@@ -59,7 +59,7 @@ output:
 
 ***
 
-**Week 6: (February 20 -- 24)**
+**Week 6: (February 19 -- 23)**
 
 * Chapter 7: Interval Estimation ([7.2 - Confidence Intervals for the Difference
 of Two Means](./LectureNotes/7_2.pdf))
@@ -69,7 +69,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 7: (February 27 -- March 3)**
+**Week 7: (February 26 -- March 1)**
 
 * Exam 1 grades [distribution](GradesDensity.html)
 
@@ -79,7 +79,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 8: (March 6 -- 10)**
+**Week 8: (March 4 -- 8)**
 
 * Chapter 7: Interval Estimation ([7.4 - Sample Size](./LectureNotes/7_4.pdf)) 
 
@@ -87,14 +87,14 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 9: (March 13 --  17)**
+**Week 9: (March 11 --  15)**
 
 * Spring Break- No classes
 
 
 ***
 
-**Week 10: (March 20 -- 24)**
+**Week 10: (March 18 -- 22)**
 
 * Chapter 8: Tests of Statistical Hypotheses ([8.1 - Tests About One Mean](./LectureNotes/8_1.pdf)) 
 * Chapter 8: Tests of Statistical Hypotheses ([8.2 - Tests of the Equality of Two Means](./LectureNotes/8_2.pdf))
@@ -105,7 +105,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 11: (March 27 -- 31)**
+**Week 11: (March 25 -- 29)**
 
 
 * Chapter 8: Tests of Statistical Hypotheses ([8.3 -Tests About Proportions](./LectureNotes/8_3.pdf))
@@ -116,7 +116,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 12: (April 3 -- April 7)**
+**Week 12: (April 1 -- April 5)**
 
 * Chapter 8: Tests of Statistical Hypotheses ([8.4 -The Wilcoxon Tests](./LectureNotes/8_4.pdf))
 * Reminder: Test 02 - Thursday the 13th (Covers section 7.1, 7.2, 7.3, 7.4, 8.1, 8.2)
@@ -124,7 +124,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 13: (April 10 -- 14)**
+**Week 13: (April 8 -- 12)**
 
 * Chapter 8: Tests of Statistical Hypotheses ([8.4 -The Wilcoxon Tests](./LectureNotes/8_4.pdf))
 * Test 2 Thursday
@@ -132,7 +132,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 14: (April 17 -- 21)**
+**Week 14: (April 15 -- 19)**
 
 * Exam 2 grades [distribution]()
 
@@ -146,7 +146,7 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 15: (April 24 -- 28)**
+**Week 15: (April 22 -- 26)**
 
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 * In Class Quiz 10 (Thursday, last 20 min of class)
@@ -156,15 +156,15 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 ***
 
-**Week 16: (May 1 -- 5)**
+**Week 16: (April 29 --  May 3)**
 
-* May 2nd is last day of classes
+* May 1st is last day of classes
 * Chapter 9: More Tests (9.3 - One-Factor Analysis of Variance)
 
 
 ***
 
-* Final Exam is on May 9th from 2PM to 4.30PM
+* Final Exam is on May 9th from 8AM to 10.30AM
 
 ***
 
