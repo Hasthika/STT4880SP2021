@@ -1,5 +1,5 @@
 ---
-title: "Schedule for STT 4880 - Spring 2023"
+title: "Schedule for STT 4880 - Spring 2024"
 author: "Dr. Hasthika Rupasinghe"
 date: 'Last Updated on: `r format(Sys.time(), "%b %d, %Y at %X")`'
 output: 
