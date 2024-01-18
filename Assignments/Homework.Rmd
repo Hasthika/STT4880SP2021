@@ -11,10 +11,10 @@ output:
 ---
 
  
+***
 
-```{note}
-Note: Homework assignments are to be done without using R or any other statistical software.
-```
+**Note:** Homework assignments are to be done without using R or any other statistical software. Clear hand written or printed assignments are accepted. Please do not do problems side-by-side.
+
 
 
 ***
