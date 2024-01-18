@@ -10,11 +10,23 @@ output:
     css: "../CSS/style.css"
 ---
 
+ 
+
+```{note}
+Note: Homework assignments are to be done without using R or any other statistical software.
+```
+
+
 ***
 
 * *Homework 1*: Due Thursday, January 25th
 
-  * Sec 6.1 - 2, 4 ($K = 8$, First class interval is $(303.5, 307.5)$), 6, 8 (Use the class boundaries 3.5005, 3.5505, 3.6005, ....., 4.1005. You will end up getting about 12 classes.), 10
+  * Section 6.1 - 
+      * 2 
+      * 4 ($K = 8$, First class interval is $(303.5, 307.5)$)
+      * 6
+      * 8 (Use the class boundaries 3.5005, 3.5505, 3.6005, ....., 4.1005. You will end up getting about 12 classes.)
+      * 10
     
 
 ***
