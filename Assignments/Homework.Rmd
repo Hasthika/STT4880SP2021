@@ -31,14 +31,18 @@ output:
 
 ***
 
-<!--
 
-* *Homework 2*: Due Thursday, February 2nd
-    * Sec 6.2 - 2, 8, 10 (class boundaries 2.85, 3.85, . . . , 16.85)
+
+* *Homework 2*: Due Thursday, February 1st
+    * Section 6.2 - 
+        * 2 
+        * 8 
+        * 10 (class boundaries 2.85, 3.85, . . . , 16.85)
 
 
 ***
 
+<!--
   
 * *Homework 3*: Due Thursday, February 9th
     * Sec 6.3 - 1, 2, 3, 7, 8
