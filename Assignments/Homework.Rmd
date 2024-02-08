@@ -55,15 +55,21 @@ output:
  
 ***
 
-<!--
 
 
 
 * *Homework 4*: Due Thursday, February 16th
-    * Sec 6.4 - 3, 5 (a and b only), 6 (Use of R is fine), 9, 12
+    * Section 6.4 - 
+        * 3
+        * 5 (a and b only)
+        * 6 (Use of R is fine for computing) 
+        * 9 (We will cover this section Tuesday)
+        * 12 (We will cover this section Tuesday)
 
  
 ***
+
+<!--
 
 
 * *Homework 5*: Due Thursday, February 23rd
