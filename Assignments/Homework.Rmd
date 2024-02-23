@@ -63,20 +63,33 @@ output:
         * 3
         * 5 (a and b only)
         * 6 (Use of R is fine for computing) 
-        * 9 (We will cover this section Tuesday)
-        * 12 (We will cover this section Tuesday)
+        * ~~9~~  - Moved to next HW
+        * ~~12~~  - Moved to next HW
 
  
 ***
 
-<!--
 
 
-* *Homework 5*: Due Thursday, February 23rd
-    * Sec 7.1 - 2, 4, 6, 8, 10, 12
+
+* *Homework 5*: Due Thursday, February 29th
+  * Section 6.4 - 
+      * 9
+      * 12
+      
+  * Section 7.1 - 
+      * 2 
+      * 4 
+      * 6 
+      * 8 
+      * 10
+      * 12
+        
+
 
 ***
 
+<!--
 
 * *Homework 6*: Due Thursday, March 9th
     * Sec 7.2 - 1, 2, 4, 6, 12
