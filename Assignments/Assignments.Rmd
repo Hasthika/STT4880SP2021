@@ -54,6 +54,7 @@ output:
 **Reminder: Test 1 next week!**
 
 * Chapter 7: Interval Estimation ([7.1 - Confidence Intervals for Means](./LectureNotes/7_1.pdf))
+* [CI simulation - ](CI_SIM.html)
 * In Class Quiz 04 (Thursday, last 20 minutes of class)
 * [Homework 4: Due Thursday](Homework.html)
 

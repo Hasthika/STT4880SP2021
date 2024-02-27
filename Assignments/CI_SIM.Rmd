@@ -1,0 +1,96 @@
+---
+title: "CI_simulation"
+author: "Dr. H"
+date: "2024-02-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Set the parameters
+set.seed(123)  # for reproducibility
+sample_size <- 100  # sample size
+num_simulations <- 1000  # number of simulations
+true_mean <- 50  # true population mean
+standard_deviation <- 4  # standard deviation
+
+# Function to perform one simulation
+perform_simulation <- function() {
+  # Generate a random sample from N(mu, sigma^2)
+  sample_data <- rnorm(sample_size, true_mean, standard_deviation)
+  
+  # Calculate the sample mean and standard error
+  sample_mean <- mean(sample_data)
+  standard_error <- sd(sample_data) / sqrt(sample_size)
+  
+  # Calculate the 90% confidence interval
+  lower_bound <- sample_mean - qnorm(0.95) * standard_error
+  upper_bound <- sample_mean + qnorm(0.95) * standard_error
+  
+  # Check if the true mean is within the confidence interval
+  contains_true_mean <- lower_bound <= true_mean && upper_bound >= true_mean
+  
+  return(contains_true_mean)
+}
+
+# Perform multiple simulations
+contains_true_mean_count <- sum(replicate(num_simulations, perform_simulation()))
+
+# Calculate the proportion of simulations where the true mean is within the confidence interval
+proportion_contains_true_mean <- contains_true_mean_count / num_simulations
+
+# Output the result
+cat("Proportion of simulations where the true mean is within the confidence interval:", proportion_contains_true_mean)
+
+
+```
+
+```{r}
+library(ggplot2)
+
+# Set the parameters
+set.seed(123)  # for reproducibility
+sample_size <- 100  # sample size
+num_simulations <- 100  # number of simulations
+true_mean <- 50  # true population mean
+standard_deviation <- 4  # standard deviation
+
+# Function to perform one simulation
+perform_simulation <- function() {
+  # Generate a random sample from N(mu, sigma^2)
+  sample_data <- rnorm(sample_size, true_mean, standard_deviation)
+  
+  # Calculate the sample mean and standard error
+  sample_mean <- mean(sample_data)
+  standard_error <- sd(sample_data) / sqrt(sample_size)
+  
+  # Calculate the confidence interval
+  lower_bound <- sample_mean - qnorm(0.95) * standard_error
+  upper_bound <- sample_mean + qnorm(0.95) * standard_error
+  
+  return(data.frame(lower_bound = lower_bound, upper_bound = upper_bound, true_mean = true_mean))
+}
+
+# Perform multiple simulations
+simulation_results <- lapply(1:num_simulations, function(x) perform_simulation())
+
+# Convert the results to a data frame
+simulation_df <- do.call(rbind, simulation_results)
+
+# Plot the results
+ggplot(simulation_df, aes(x = true_mean, y = as.factor(seq_along(true_mean)))) +
+  geom_segment(aes(x = lower_bound, xend = upper_bound, y = as.factor(seq_along(true_mean)), yend = as.factor(seq_along(true_mean))), color = "blue", size = 1) +
+  geom_vline(xintercept = true_mean, linetype = "dashed", color = "red", size = 1) +
+  labs(title = "Simulated 90% Confidence Intervals",
+       x = "True Mean",
+       y = "") +
+  theme_minimal() +
+  scale_y_discrete(labels = NULL) +
+  coord_cartesian(xlim = c(min(simulation_df$lower_bound), max(simulation_df$upper_bound)))
+
+```
+
+
