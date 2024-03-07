@@ -89,14 +89,20 @@ output:
 
 ***
 
-<!--
 
-* *Homework 6*: Due Thursday, March 9th
-    * Sec 7.2 - 1, 2, 4, 6, 12
+
+* *Homework 6*: Due Thursday, March 21st
+    * Section 7.2 - 
+        * 1 
+        * 2
+        * 4
+        * 6
+        * 12
 
  
 ***
 
+<!--
 
 
 * *Homework 7*: Due Thursday, March 30th
