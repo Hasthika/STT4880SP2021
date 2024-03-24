@@ -102,15 +102,24 @@ output:
  
 ***
 
-<!--
 
 
-* *Homework 7*: Due Thursday, March 30th
-    * Sec 7.3 - 1 a), b), d), e), 4, 6, 8
-    * Sec 7.4 - 2, 3, 6, 8
+* *Homework 7*: Due Thursday, March 28th
+    * Section 7.3 - 
+        * 1 a), b), d), e)
+        * 4
+        * 6
+        * 8
+        
+    * Section 7.4 -  
+        * 2 
+        * 3
+        * 6
+        * 8
     
  ***   
 
+<!--
 
 
  * *Homework 8*: Due Thursday, April 6th
