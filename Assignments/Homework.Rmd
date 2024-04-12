@@ -147,19 +147,28 @@ output:
 
 ***
 
-<!--
+
 
  * *Homework 10*: Due  Thursday, April 27th
-     * Sec 8.3 - 5, 6, ~~8~~, 10, ~~12~~ (I removed two problems due to uploading this section late)
-    * Sec 8.4 - 2, 4, 6
-    * Sec 9.1 - 2, 4, 6, 8, 10
+     * Section 8.3 - 
+        * 5
+        * 6
+        * 8
+        * 10
+        
+     * Section 8.4 - 
+        * 2 
+        * 4
+        * 6
 
  ***     
-
+ 
+<!--
  
  ***  
  
  * *Homework 11*: Due  Thursday, April 27th 
+     * Sec 9.1 - 2, 4, 6, 8, 10
     * Sec 9.2 - 4, 6, 8, 10 (For Q4: $\leq$ 61, 62-78, 79 $\geq$ )
      
     
