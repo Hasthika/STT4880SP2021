@@ -149,7 +149,7 @@ output:
 
 
 
- * *Homework 10*: Due  Thursday, April 27th
+ * *Homework 10*: Due  Thursday, April 18th
      * Section 8.3 - 
         * 5
         * 6
