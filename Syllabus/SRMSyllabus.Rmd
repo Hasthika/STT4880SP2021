@@ -1,9 +1,9 @@
 ---
 title: "Syllabus: STT xxxx - Statistical Learning II"
-
 author: "Syllabus - FALL 2025"
-date: ""
+date: ''
 output:
+  pdf_document: default
   html_document:
     css: asu.css
     highlight: textmate
@@ -25,32 +25,33 @@ Prerequisite: STT 3851
 
 **Course Catelog Description:**  
 
-This course serves as a continuation of STT 3851 (Statistical Learning I). Fundamentals of Generalized Linear Models (GLM) are explored, with a focus on the Linear exponential family, the Link function, and their applications to categorical and count response variables. Supervised learning techniques for classification models and tree-based methods are also examined, as they apply to both regression and classification problems. Unsupervised learning is introduced, including principal component analysis and various clustering algorithms. Other topics such as support vector machines, regression splines, and smoothing splines may be included. Students will complete data analysis projects that emphasize the use of professional editing tools and demonstrate principles of reproducible statistical research.
+This course serves as a continuation of STT 3851 (Statistical Learning I). Fundamentals of Generalized Linear Models (GLM) are explored, with a focus on the Linear exponential family, the Link function, and their applications to categorical and count response variables. Supervised learning techniques for classification models and tree-based methods are also examined, as they apply to both regression and classification problems. Unsupervised learning is introduced, including principal component analysis and various clustering algorithms. Other topics such as support vector machines, regression splines, and smoothing splines may be included. Students will complete projects using methods and algorithms covered in class and report their results using professional editing tools that use principles of reproducible statistical research.
+
 
 **Learning Outcomes**  
 
 At the completion of this course, students will be able to: 
 
-  ● Understand key concepts of statistical learning and the R programming language. 
+  * Understand key concepts of statistical learning and the R programming language. 
   
-  ● Explain models in R and access and interpret output, including diagnostics.
+  * Explain models in R and access and interpret output, including diagnostics.
   
-  ● Understand the key concepts concerning the construction of generalized linear models.  
+  * Understand the key concepts concerning the construction of generalized linear models.  
   
-  ● Apply the key concepts concerning principal components analysis. 
+  * Apply the key concepts concerning principal components analysis. 
   
-  ● Apply the key concepts concerning decision tree models.  
+  * Apply the key concepts concerning decision tree models.  
   
-  ● Apply the key concepts concerning cluster analysis. 
+  * Apply the key concepts concerning cluster analysis. 
   
-  ● Write reports and explain findings related to models and code. 
+  * Write reports and explain findings related to models and code. 
 
 
 **Course Text:**
 
- •  Introduction to Statistical Learning, by G. James, D. Witten, T. Hastie, and R. Tibshirani (available as pdf download) (referred to as ISLR below) (7th Edition)    http://www-bcf.usc.edu/~gareth/ISL/                
+ *  Introduction to Statistical Learning, by G. James, D. Witten, T. Hastie, and R. Tibshirani (available as pdf download) (referred to as ISLR below) (7th Edition)    http://www-bcf.usc.edu/~gareth/ISL/                
  
- •  Regression Modeling with Actuarial and Financial Applications, Edward W. Frees, 2010, New York: Cambridge. ISBN: 978-0521135962 
+ *  Regression Modeling with Actuarial and Financial Applications, Edward W. Frees, 2010, New York: Cambridge. ISBN: 978-0521135962 
 
 
 **Required Resources:**

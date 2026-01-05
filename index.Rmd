@@ -5,7 +5,7 @@ title: "Welcome to Mathematical Statistics"
 
 ***
 
-* The course [`Syllabus`](./Syllabus/STT4880SP2024Syllabus.html) 
+* The course [`Syllabus`](./Syllabus/STT4880SP2026Syllabus.html) 
 
 * Course [`Pacing and Assignments`](./Assignments/Assignments.html) 
 
