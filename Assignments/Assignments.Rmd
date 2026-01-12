@@ -85,33 +85,23 @@ output:
 of Two Means](./LectureNotes/7_2.pdf))
 
 
-
-* **Test 01 (Thursday)**
-
-
-
+* In Class Quiz 04 (Thursday, last 20 minutes of class)
+* [Homework 4: Due Tuesday](Homework.html)
 
 ***
 
 **Week 6: (February 16 -- 20)**
 
+
+* **Test 01 (Thursday)**
+
 * Chapter 7: Interval Estimation ([7.3 - Confidence Intervals for Proportions](./LectureNotes/7_3.pdf)) 
 
-
-* In Class Quiz 04 (Thursday, last 20 minutes of class)
-* [Homework 4: Due Tuesday](Homework.html)
 
 
 ***
 
 **Week 7: (February 23 --  27)**
-
-* Spring Break- No classes
-
-
-***
-
-**Week 8: (March 2 -- 6)**
 
 * Chapter 7: Interval Estimation ([7.4 - Sample Size](./LectureNotes/7_4.pdf)) 
 
@@ -121,12 +111,10 @@ of Two Means](./LectureNotes/7_2.pdf))
 * [Homework 5: Due Thursday](Homework.html)
 
 
-  
 
 ***
 
-**Week 9: (March 9 -- 13)**
-
+**Week 8: (March 2 -- 6)**
 
 * Chapter 8: Tests of Statistical Hypotheses ([8.1 - Tests About One Mean](./LectureNotes/8_1.pdf)) 
 * Chapter 8: Tests of Statistical Hypotheses ([8.2 - Tests of the Equality of Two Means](./LectureNotes/8_2.pdf))
@@ -136,6 +124,13 @@ of Two Means](./LectureNotes/7_2.pdf))
 
 * [Homework 6: Due Tuesday](Homework.html)
 
+  
+
+***
+
+**Week 9: (March 9 -- 13)**
+
+* Spring Break- No classes
 
 
 ***
