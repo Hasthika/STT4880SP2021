@@ -59,9 +59,9 @@ output:
 ***
 
 
-<!--
 
-* *Homework 4*: Due Thursday, February 16th
+
+* *Homework 4*: Due Tuesday, February 3rd
     * Section 6.4 - 
         * 3
         * 5 (a and b only)
@@ -72,6 +72,7 @@ output:
  
 ***
 
+<!--
 
 
 
