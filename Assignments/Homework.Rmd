@@ -61,7 +61,7 @@ output:
 
 
 
-* *Homework 4*: Due Tuesday, February 3rd
+* *Homework 4*: Due Tuesday, February 5th
     * Section 6.4 - 
         * 3
         * 5 (a and b only)
