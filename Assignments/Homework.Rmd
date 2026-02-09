@@ -72,14 +72,17 @@ output:
  
 ***
 
+* *Homework 5*: Due Thursday, February 12th
+  * Section 6.4 - 
+      * 9
+      * 12
+
+***
+
 <!--
 
 
 
-* *Homework 5*: Due Thursday, February 29th
-  * Section 6.4 - 
-      * 9
-      * 12
       
   * Section 7.1 - 
       * 2 
