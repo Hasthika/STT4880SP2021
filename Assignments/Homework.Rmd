@@ -79,6 +79,82 @@ output:
 
 ***
 
+
+* *Homework 6*: Due Thursday, February 19th
+
+### Unbiased vs Biased
+
+Suppose \(X_1, \dots, X_n\) is a random sample from a Poisson distribution with parameter \(\lambda > 0\).
+
+1. Show that \(\bar{X}\) is an unbiased estimator of \(\lambda\).
+
+2. Determine whether \(T = \frac{n-1}{n}\bar{X}\) is unbiased or biased for \(\lambda\).
+
+###  Method of Moments
+
+Suppose \(X_1, \dots, X_n\) is a random sample from a distribution with pdf
+
+\[
+f(x;\theta) = \frac{1}{\theta} e^{-x/\theta}, \quad x > 0, \ \theta > 0.
+\]
+
+1. Find the method of moments estimator of \(\theta\).
+
+2. Determine whether your estimator is unbiased.
+
+### Method of Moments (Gamma with two parameters)
+
+Suppose \(X_1,\dots,X_n\) is a random sample from a Gamma distribution with **shape** \(\alpha>0\) and **scale** \(\beta>0\), written \(X \sim \text{Gamma}(\alpha,\beta)\).
+
+
+1. Find method of moments estimators \(\hat\alpha_{\text{MOM}}\) and \(\hat\beta_{\text{MOM}}\).
+
+
+---
+<!--
+
+### Solution (Problem 3)
+
+#### (1) Method of moments system
+
+Set sample mean equal to population mean, and sample variance moment equal to population variance:
+\[
+\bar X=\alpha\beta,
+\qquad
+S^2=\alpha\beta^2.
+\]
+
+Divide the variance equation by the mean equation:
+\[
+\frac{S^2}{\bar X}=\frac{\alpha\beta^2}{\alpha\beta}=\beta
+\quad\Longrightarrow\quad
+\hat\beta_{\text{MOM}}=\frac{S^2}{\bar X}.
+\]
+
+Plug into \(\bar X=\alpha\beta\):
+\[
+\bar X=\alpha\left(\frac{S^2}{\bar X}\right)
+\quad\Longrightarrow\quad
+\alpha=\frac{\bar X^2}{S^2}.
+\]
+So
+\[
+\hat\alpha_{\text{MOM}}=\frac{\bar X^2}{S^2},
+\qquad
+\hat\beta_{\text{MOM}}=\frac{S^2}{\bar X}.
+\]
+
+#### (2) Unbiasedness?
+
+In general, these are **not unbiased**, because they are **ratios/nonlinear functions** of random quantities (\(\bar X\) and \(S^2\)), and typically
+\[
+E\!\left[\frac{\bar X^2}{S^2}\right]\neq \frac{(E[\bar X])^2}{E[S^2]},
+\qquad
+E\!\left[\frac{S^2}{\bar X}\right]\neq \frac{E[S^2]}{E[\bar X]}.
+\]
+
+-->
+
 <!--
 
 

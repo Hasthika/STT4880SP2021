@@ -439,10 +439,17 @@ display: none;
 
 <h1 class="title toc-ignore">Homework for STT 4880 - SP 2026</h1>
 <h4 class="author">Dr. Hasthika Rupasinghe</h4>
-<h4 class="date">Last Updated on: Feb 09, 2026 at 11:02:36 AM</h4>
+<h4 class="date">Last Updated on: Feb 15, 2026 at 11:34:08 AM</h4>
 
 </div>
 
+<div id="TOC">
+<ul>
+<li><a href="#unbiased-vs-biased" id="toc-unbiased-vs-biased"><span class="toc-section-number">1</span> Unbiased vs Biased</a></li>
+<li><a href="#method-of-moments" id="toc-method-of-moments"><span class="toc-section-number">2</span> Method of Moments</a></li>
+<li><a href="#method-of-moments-gamma-with-two-parameters" id="toc-method-of-moments-gamma-with-two-parameters"><span class="toc-section-number">3</span> Method of Moments (Gamma with two parameters)</a></li>
+</ul>
+</div>
 
 <hr />
 <p><strong>Note:</strong> Homework assignments are to be done without using R or any other statistical software. Clear hand written or printed assignments are accepted. Please do not do problems side-by-side.</p>
@@ -511,6 +518,78 @@ display: none;
 </ul></li>
 </ul>
 <hr />
+<ul>
+<li><em>Homework 6</em>: Due Thursday, February 19th</li>
+</ul>
+<div id="unbiased-vs-biased" class="section level3" number="1">
+<h3><span class="header-section-number">1</span> Unbiased vs Biased</h3>
+<p>Suppose <span class="math inline">\(X_1, \dots, X_n\)</span> is a random sample from a Poisson distribution with parameter <span class="math inline">\(\lambda &gt; 0\)</span>.</p>
+<ol style="list-style-type: decimal">
+<li><p>Show that <span class="math inline">\(\bar{X}\)</span> is an unbiased estimator of <span class="math inline">\(\lambda\)</span>.</p></li>
+<li><p>Determine whether <span class="math inline">\(T = \frac{n-1}{n}\bar{X}\)</span> is unbiased or biased for <span class="math inline">\(\lambda\)</span>.</p></li>
+</ol>
+</div>
+<div id="method-of-moments" class="section level3" number="2">
+<h3><span class="header-section-number">2</span> Method of Moments</h3>
+<p>Suppose <span class="math inline">\(X_1, \dots, X_n\)</span> is a random sample from a distribution with pdf</p>
+<p><span class="math display">\[
+f(x;\theta) = \frac{1}{\theta} e^{-x/\theta}, \quad x &gt; 0, \ \theta &gt; 0.
+\]</span></p>
+<ol style="list-style-type: decimal">
+<li><p>Find the method of moments estimator of <span class="math inline">\(\theta\)</span>.</p></li>
+<li><p>Determine whether your estimator is unbiased.</p></li>
+</ol>
+</div>
+<div id="method-of-moments-gamma-with-two-parameters" class="section level3" number="3">
+<h3><span class="header-section-number">3</span> Method of Moments (Gamma with two parameters)</h3>
+<p>Suppose <span class="math inline">\(X_1,\dots,X_n\)</span> is a random sample from a Gamma distribution with <strong>shape</strong> <span class="math inline">\(\alpha&gt;0\)</span> and <strong>scale</strong> <span class="math inline">\(\beta&gt;0\)</span>, written <span class="math inline">\(X \sim \text{Gamma}(\alpha,\beta)\)</span>.</p>
+<ol style="list-style-type: decimal">
+<li>Find method of moments estimators <span class="math inline">\(\hat\alpha_{\text{MOM}}\)</span> and <span class="math inline">\(\hat\beta_{\text{MOM}}\)</span>.</li>
+</ol>
+<hr />
+<!--
+
+### Solution (Problem 3)
+
+#### (1) Method of moments system
+
+Set sample mean equal to population mean, and sample variance moment equal to population variance:
+\[
+\bar X=\alpha\beta,
+\qquad
+S^2=\alpha\beta^2.
+\]
+
+Divide the variance equation by the mean equation:
+\[
+\frac{S^2}{\bar X}=\frac{\alpha\beta^2}{\alpha\beta}=\beta
+\quad\Longrightarrow\quad
+\hat\beta_{\text{MOM}}=\frac{S^2}{\bar X}.
+\]
+
+Plug into \(\bar X=\alpha\beta\):
+\[
+\bar X=\alpha\left(\frac{S^2}{\bar X}\right)
+\quad\Longrightarrow\quad
+\alpha=\frac{\bar X^2}{S^2}.
+\]
+So
+\[
+\hat\alpha_{\text{MOM}}=\frac{\bar X^2}{S^2},
+\qquad
+\hat\beta_{\text{MOM}}=\frac{S^2}{\bar X}.
+\]
+
+#### (2) Unbiasedness?
+
+In general, these are **not unbiased**, because they are **ratios/nonlinear functions** of random quantities (\(\bar X\) and \(S^2\)), and typically
+\[
+E\!\left[\frac{\bar X^2}{S^2}\right]\neq \frac{(E[\bar X])^2}{E[S^2]},
+\qquad
+E\!\left[\frac{S^2}{\bar X}\right]\neq \frac{E[S^2]}{E[\bar X]}.
+\]
+
+-->
 <!--
 
 
@@ -615,6 +694,7 @@ display: none;
 
 -->
 <p><a href="TextBook.pdf">Probability and Statistical Inference - 9th Edition</a></p>
+</div>
 
 
 
