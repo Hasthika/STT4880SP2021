@@ -195,17 +195,18 @@ E\!\left[\frac{S^2}{\bar X}\right]\neq \frac{E[S^2]}{E[\bar X]}.
 
  ***   
 
-<!--
-
-
- * *Homework 8*: Due Thursday, April 4th
+ * *Homework 8*: Due Thursday, April 2nd
  
      * Section 7.4 -  
         * 2 
         * 3
         * 6
         * 8
-    
+        
+ ***
+
+<!--
+
     * Section 8.1 - 
         * 2 
         * 4 
