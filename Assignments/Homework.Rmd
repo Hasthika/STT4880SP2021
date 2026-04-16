@@ -231,9 +231,9 @@ E\!\left[\frac{S^2}{\bar X}\right]\neq \frac{E[S^2]}{E[\bar X]}.
 
 ***
 
-<!--
 
- * *Homework 10*: Due  Thursday, April 18th
+
+ * *Homework 10*: Due  Thursday, April 28th
      * Section 8.3 - 
         * 5
         * 6
@@ -247,18 +247,14 @@ E\!\left[\frac{S^2}{\bar X}\right]\neq \frac{E[S^2]}{E[\bar X]}.
 
  ***     
  
-<!--
  
- ***  
- 
- * *Homework 11*: Due  Thursday, April 27th 
+ * *Homework 11*: Practice for final from Sections 9.1 and 9.2 
      * Sec 9.1 - 2, 4, 6, 8, 10
     * Sec 9.2 - 4, 6, 8, 10 (For Q4: $\leq$ 61, 62-78, 79 $\geq$ )
      
     
  ***  
 
--->
  
 [Probability and Statistical Inference - 9th Edition](TextBook.pdf)
 
