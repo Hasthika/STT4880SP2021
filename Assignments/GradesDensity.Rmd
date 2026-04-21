@@ -14,20 +14,20 @@ library(plotly)
 library(ggplot2)
 ```
 
-# STT 4880 Exam 2 grades Spring 2024.{-}
+# STT 4880 Exam 2 grades Spring 2026.{-}
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
 library(plotly)
 library(ggplot2)
-Class2 <- c(105, 105, 55, 64, 60, 60, 87, 60, 49, 46, 83, 94, 80, 88, 77, 66, 95)
+Class2 <- c(105, 99, 97, 95, 95, 95, 94, 91, 91, 86, 86, 93, 79, 78, 76, 75, 75, 70, 65, 38, 35)
 
 
 p2 <- ggplot(data = data.frame(Class2), aes(x = Class2)) + 
   geom_density(fill = "steelblue") + 
   theme_bw() + 
-  labs(x = "Exam 1 grades") +
+  labs(x = "Exam 2 grades") +
   geom_vline(xintercept=mean(Class2), linetype="dotted") +
-  annotate("text",x=median(Class2)+1,y=0.01,label="Exam Average = 75",hjust=0)
+  annotate("text",x=median(Class2)+1,y=0.01,label="Exam Average = 82",hjust=0)
 
 ggplotly(p2)
 
@@ -35,7 +35,7 @@ ggplotly(p2)
 p3 <- ggplot(data = data.frame(Class2), aes(y = Class2)) + 
   geom_boxplot(fill = "steelblue") + 
   theme_bw() + 
-  labs(x = "Exam 1 grades") 
+  labs(x = "Exam 2 grades") 
 
 p3
 
@@ -53,7 +53,7 @@ kable(q)
 
 ```
 
-
+<!--
 
 # STT 4880 Exam 2 grades Spring 2023.{-}
 
@@ -93,6 +93,8 @@ kable(q)
 
 
 ```
+
+<!--
 
 # STT 4880 Exam 1 grades Spring 2022.{-}
 
@@ -135,7 +137,7 @@ kable(q)
 
 
 
-
+-->
 
 
 
